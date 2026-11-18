@@ -41770,7 +41770,17 @@
         "synonyms": [
           "destruction",
           "devastation"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The wildfire caused the ____ of the forest, destroying nearly all the mature trees.",
+          "correctAnswer": "decimation",
+          "distractors": [
+            "restoration",
+            "expansion",
+            "preservation"
+          ],
+          "explanationKo": "산불이 성숙한 나무 대부분을 없앴다."
+        }
       }
     ],
     "source": {
@@ -41823,7 +41833,17 @@
           "susceptible",
           "weak",
           "open to attack"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Young seedlings are ____ to frost and may die after one freezing night.",
+          "correctAnswer": "vulnerable",
+          "distractors": [
+            "immune",
+            "resistant",
+            "impervious"
+          ],
+          "explanationKo": "하룻밤만 얼어도 죽을 수 있어 서리에 취약하다."
+        }
       }
     ],
     "source": {
@@ -41843,7 +41863,17 @@
           "detailed",
           "more complex",
           "complicated"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The clock contains an unusually ____ mechanism with dozens of linked gears and springs.",
+          "correctAnswer": "elaborate",
+          "distractors": [
+            "simple",
+            "rudimentary",
+            "uncomplicated"
+          ],
+          "explanationKo": "수십 개의 톱니와 용수철이 맞물린 정교한 장치다."
+        }
       },
       {
         "senseId": "advance-1365-s2",
@@ -41869,7 +41899,17 @@
         "synonyms": [
           "mysterious",
           "puzzling"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The message remained ____: even experts could not make sense of its symbols.",
+          "correctAnswer": "enigmatic",
+          "distractors": [
+            "explicit",
+            "transparent",
+            "straightforward"
+          ],
+          "explanationKo": "전문가도 기호의 뜻을 풀 수 없어 이해하기 어려웠다."
+        }
       }
     ],
     "source": {
@@ -41888,7 +41928,17 @@
         "synonyms": [
           "correspond to",
           "accord with"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The festival dates will ____ the school holiday, so both will begin on the same day.",
+          "correctAnswer": "coincide with",
+          "distractors": [
+            "precede",
+            "follow",
+            "fall outside"
+          ],
+          "explanationKo": "축제와 방학이 같은 날 시작한다."
+        }
       }
     ],
     "source": {
@@ -41907,7 +41957,17 @@
         "synonyms": [
           "apparently",
           "ostensibly"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The box was ____ empty until workers found a hidden compartment full of letters.",
+          "correctAnswer": "seemingly",
+          "distractors": [
+            "undeniably",
+            "demonstrably",
+            "certainly"
+          ],
+          "explanationKo": "숨은 칸을 찾기 전에는 겉보기에 비어 있었다."
+        }
       }
     ],
     "source": {
@@ -41927,7 +41987,17 @@
           "created",
           "formed",
           "manufactured"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The delicate ornament was ____ from a single piece of silver by hand.",
+          "correctAnswer": "wrought",
+          "distractors": [
+            "discarded",
+            "detached",
+            "removed"
+          ],
+          "explanationKo": "은 한 조각을 손으로 가공해 만든 장식이다."
+        }
       }
     ],
     "source": {
@@ -41948,7 +42018,17 @@
           "hindrance",
           "impediment",
           "obstruction"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "A fallen tree was an ____ that prevented vehicles from using the road.",
+          "correctAnswer": "obstacle",
+          "distractors": [
+            "advantage",
+            "shortcut",
+            "opening"
+          ],
+          "explanationKo": "쓰러진 나무가 차량 통행을 막았다."
+        }
       }
     ],
     "source": {
@@ -41968,7 +42048,17 @@
           "profitable",
           "gainful",
           "advantageous"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The business proved ____: it generated millions in profit during its first year.",
+          "correctAnswer": "lucrative",
+          "distractors": [
+            "unprofitable",
+            "unsustainable",
+            "unrewarding"
+          ],
+          "explanationKo": "첫해에 수백만의 이익을 냈다."
+        }
       }
     ],
     "source": {
@@ -41990,7 +42080,17 @@
           "wide",
           "broad",
           "far-reaching"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The survey was ____: it covered every district and included thousands of households.",
+          "correctAnswer": "extensive",
+          "distractors": [
+            "limited",
+            "narrow",
+            "localized"
+          ],
+          "explanationKo": "모든 구역과 수천 가구를 조사했다."
+        }
       }
     ],
     "source": {
@@ -42011,7 +42111,17 @@
           "wet",
           "soak",
           "saturate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Use a spray bottle to ____ the cloth slightly before ironing it.",
+          "correctAnswer": "dampen",
+          "distractors": [
+            "dry",
+            "dehydrate",
+            "scorch"
+          ],
+          "explanationKo": "다리기 전에 분무기로 천을 살짝 적신다."
+        }
       }
     ],
     "source": {
@@ -42030,7 +42140,17 @@
         "synonyms": [
           "unclear",
           "obscure"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The explanation was ____: readers could not tell what the author meant by the main claim.",
+          "correctAnswer": "opaque",
+          "distractors": [
+            "lucid",
+            "clear",
+            "explicit"
+          ],
+          "explanationKo": "저자의 주된 주장이 무슨 뜻인지 알 수 없었다."
+        }
       },
       {
         "senseId": "advance-1374-s2",
@@ -42058,7 +42178,17 @@
           "subscribe",
           "back",
           "advocate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The board voted to ____ the proposal and publicly announced its support.",
+          "correctAnswer": "endorse",
+          "distractors": [
+            "reject",
+            "condemn",
+            "oppose"
+          ],
+          "explanationKo": "제안을 지지한다고 공개 발표했다."
+        }
       },
       {
         "senseId": "advance-1375-s2",
@@ -42086,7 +42216,17 @@
           "coming",
           "introduction",
           "appearance"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The ____ of refrigeration made it possible to transport fresh food over long distances.",
+          "correctAnswer": "advent",
+          "distractors": [
+            "withdrawal",
+            "collapse",
+            "abolition"
+          ],
+          "explanationKo": "냉장 기술이 등장해 신선 식품의 장거리 운송이 가능해졌다."
+        }
       }
     ],
     "source": {
@@ -42106,7 +42246,17 @@
           "intensely",
           "seriously",
           "sharply"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The storm ____ damaged the pier, leaving most of it unsafe to use.",
+          "correctAnswer": "severely",
+          "distractors": [
+            "slightly",
+            "marginally",
+            "minimally"
+          ],
+          "explanationKo": "부두 대부분을 쓸 수 없을 만큼 피해가 심했다."
+        }
       }
     ],
     "source": {
@@ -42126,7 +42276,17 @@
           "unchangeable",
           "invariable",
           "unalterable"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The clause is ____: no vote or amendment can change it.",
+          "correctAnswer": "immutable",
+          "distractors": [
+            "adjustable",
+            "revisable",
+            "modifiable"
+          ],
+          "explanationKo": "표결이나 개정으로도 바꿀 수 없다."
+        }
       }
     ],
     "source": {
@@ -42147,7 +42307,17 @@
           "criterion",
           "benchmark",
           "standard"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The study used a separate group as a control and chose recovery time as its main ____ for comparing treatments.",
+          "correctAnswer": "yardstick",
+          "distractors": [
+            "complication",
+            "barrier",
+            "limitation"
+          ],
+          "explanationKo": "치료 효과를 판단하는 기준으로 회복 시간을 썼다."
+        }
       }
     ],
     "source": {
@@ -42169,7 +42339,17 @@
           "retain",
           "maintain",
           "conserve"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Low humidity helps ____ the manuscript by slowing the decay of its paper.",
+          "correctAnswer": "preserve",
+          "distractors": [
+            "damage",
+            "erode",
+            "destroy"
+          ],
+          "explanationKo": "습도를 낮춰 종이의 부패를 늦추고 원고를 보존한다."
+        }
       }
     ],
     "source": {
@@ -42189,7 +42369,17 @@
           "strong belief",
           "strong opinion",
           "faith"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "She defended the reform with ____ because she firmly believed it would improve access to education.",
+          "correctAnswer": "conviction",
+          "distractors": [
+            "hesitation",
+            "doubt",
+            "indifference"
+          ],
+          "explanationKo": "교육 접근성이 좋아질 것이라는 확신으로 개혁을 옹호했다."
+        }
       }
     ],
     "source": {
@@ -42209,7 +42399,17 @@
           "feature",
           "distinguishing trait",
           "sure signal"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The bright stripe on every adult’s wing is a distinctive ____ of the species.",
+          "correctAnswer": "hallmark",
+          "distractors": [
+            "habitat",
+            "diet",
+            "migration"
+          ],
+          "explanationKo": "모든 성체의 날개에 보이는 밝은 줄무늬가 특징이다."
+        }
       }
     ],
     "source": {
@@ -42229,7 +42429,17 @@
           "shy",
           "fearful",
           "cowardly"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The ____ child hid behind a chair rather than introduce himself to the visitors.",
+          "correctAnswer": "timid",
+          "distractors": [
+            "bold",
+            "fearless",
+            "outgoing"
+          ],
+          "explanationKo": "방문객에게 인사하는 대신 의자 뒤에 숨었다."
+        }
       }
     ],
     "source": {
@@ -42250,7 +42460,17 @@
           "vigorous",
           "healthy",
           "stalwart"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The ____ frame survived years of heavy use without bending or breaking.",
+          "correctAnswer": "robust",
+          "distractors": [
+            "flimsy",
+            "fragile",
+            "unstable"
+          ],
+          "explanationKo": "여러 해 혹사해도 틀이 휘거나 부러지지 않았다."
+        }
       }
     ],
     "source": {
@@ -42272,7 +42492,17 @@
           "reject",
           "dispose of",
           "cast aside"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Workers must ____ any filter that has been damaged and replace it with a new one.",
+          "correctAnswer": "discard",
+          "distractors": [
+            "retain",
+            "reuse",
+            "hoard"
+          ],
+          "explanationKo": "손상된 필터를 버리고 새것으로 교체해야 한다."
+        }
       }
     ],
     "source": {
@@ -42292,7 +42522,17 @@
           "complex",
           "intricate",
           "elaborate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The procedure is ____: each of its twenty steps depends on several earlier results.",
+          "correctAnswer": "complicated",
+          "distractors": [
+            "simple",
+            "straightforward",
+            "elementary"
+          ],
+          "explanationKo": "20단계가 각각 앞선 결과 여러 개에 의존한다."
+        }
       }
     ],
     "source": {
@@ -42312,7 +42552,17 @@
           "besides",
           "except for",
           "excluding"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "____ one brief outage, the service ran without interruption throughout the year.",
+          "correctAnswer": "Apart from",
+          "distractors": [
+            "Because of",
+            "Owing to",
+            "As a result of"
+          ],
+          "explanationKo": "짧은 장애 한 번을 제외하면 연중 서비스가 중단되지 않았다."
+        }
       }
     ],
     "source": {
@@ -42332,7 +42582,17 @@
           "progress to",
           "advance to",
           "proceed to"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Once learners master the basics, they can ____ more demanding exercises.",
+          "correctAnswer": "graduate to",
+          "distractors": [
+            "fall back on",
+            "steer clear of",
+            "turn away from"
+          ],
+          "explanationKo": "기초를 익히면 더 어려운 연습으로 넘어갈 수 있다."
+        }
       }
     ],
     "source": {
@@ -42352,7 +42612,17 @@
           "indicate",
           "show",
           "manifest"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The video can ____ how the valve works by showing its internal movement.",
+          "correctAnswer": "demonstrate",
+          "distractors": [
+            "obscure",
+            "conceal",
+            "distort"
+          ],
+          "explanationKo": "내부 움직임을 영상으로 보여 밸브의 작동 원리를 설명한다."
+        }
       }
     ],
     "source": {
@@ -42373,7 +42643,17 @@
           "luxurious",
           "opulent",
           "rich"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Guests chose the ____ suite for its private terrace, marble bath, and personal dining service.",
+          "correctAnswer": "deluxe",
+          "distractors": [
+            "budget",
+            "basic",
+            "no-frills"
+          ],
+          "explanationKo": "전용 테라스와 대리석 욕실, 개인 식사 서비스를 갖춘 호화 객실이다."
+        }
       }
     ],
     "source": {
@@ -42392,7 +42672,17 @@
         "synonyms": [
           "argue",
           "contend"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Both experts continue to ____ the committee's conclusion, arguing that the evidence points elsewhere.",
+          "correctAnswer": "dispute",
+          "distractors": [
+            "endorse",
+            "accept",
+            "affirm"
+          ],
+          "explanationKo": "증거가 다른 결론을 가리킨다며 위원회의 판단에 이의를 제기한다."
+        }
       },
       {
         "senseId": "advance-1391-s2",
@@ -42421,7 +42711,17 @@
           "usually practice custom",
           "tradition",
           "rule"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "It is a local ____ to leave shoes at the entrance, a practice followed for generations.",
+          "correctAnswer": "convention",
+          "distractors": [
+            "innovation",
+            "exception",
+            "prohibition"
+          ],
+          "explanationKo": "여러 세대 동안 현관에 신발을 벗어 두는 관습이 이어졌다."
+        }
       }
     ],
     "source": {
@@ -42441,7 +42741,17 @@
           "competing",
           "competitive",
           "conflicting"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "A ____ firm tried to win the same contract by offering a lower price.",
+          "correctAnswer": "rival",
+          "distractors": [
+            "partner",
+            "subsidiary",
+            "client"
+          ],
+          "explanationKo": "다른 업체가 같은 계약을 따려고 더 낮은 가격을 냈다."
+        }
       },
       {
         "senseId": "advance-1393-s2",
@@ -42478,7 +42788,17 @@
           "adjust",
           "regulate",
           "tune"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The controller can ____ the fan speed so that it rises or falls with the temperature.",
+          "correctAnswer": "modulate",
+          "distractors": [
+            "freeze",
+            "fix",
+            "lock"
+          ],
+          "explanationKo": "온도에 맞춰 팬 속도를 높이거나 낮춘다."
+        }
       }
     ],
     "source": {
@@ -42497,7 +42817,17 @@
         "synonyms": [
           "used everywhere",
           "general"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The need for water is ____: every known living organism requires it in some form.",
+          "correctAnswer": "universal",
+          "distractors": [
+            "localized",
+            "regional",
+            "exceptional"
+          ],
+          "explanationKo": "알려진 모든 생물에게 어떤 형태로든 물이 필요하다."
+        }
       }
     ],
     "source": {
@@ -42518,7 +42848,17 @@
           "comparable",
           "even",
           "commensurate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "A payment of one hundred cents is ____ to a payment of one dollar.",
+          "correctAnswer": "equivalent",
+          "distractors": [
+            "inferior",
+            "superior",
+            "unrelated"
+          ],
+          "explanationKo": "100센트와 1달러는 같은 금액이다."
+        }
       }
     ],
     "source": {
@@ -42537,7 +42877,17 @@
         "synonyms": [
           "thinly",
           "widely scattered"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Trees grow ____ on the slope; broad patches of bare ground separate them.",
+          "correctAnswer": "sparsely",
+          "distractors": [
+            "densely",
+            "thickly",
+            "profusely"
+          ],
+          "explanationKo": "나무 사이마다 넓은 맨땅이 있어 드문드문 난다."
+        }
       }
     ],
     "source": {
@@ -42557,7 +42907,17 @@
           "go beyond",
           "surpass",
           "have a greater number than"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Do not ____ the stated limit by putting more than fifty kilograms on the shelf.",
+          "correctAnswer": "exceed",
+          "distractors": [
+            "observe",
+            "respect",
+            "heed"
+          ],
+          "explanationKo": "선반에 50킬로그램 넘게 올려 한도를 초과하면 안 된다."
+        }
       }
     ],
     "source": {
@@ -42576,7 +42936,17 @@
         "synonyms": [
           "remain",
           "stay"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The smell of smoke can ____ for days after the fire has been put out.",
+          "correctAnswer": "linger",
+          "distractors": [
+            "vanish",
+            "dissipate",
+            "disappear"
+          ],
+          "explanationKo": "불을 끈 뒤에도 연기 냄새가 며칠 남을 수 있다."
+        }
       }
     ],
     "source": {
@@ -42597,7 +42967,17 @@
           "inventive",
           "creative",
           "ingenious"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The ____ design used a new cooling method that no earlier model had attempted.",
+          "correctAnswer": "innovative",
+          "distractors": [
+            "conventional",
+            "traditional",
+            "derivative"
+          ],
+          "explanationKo": "이전 모델에 없던 냉각 방식을 썼다."
+        }
       }
     ],
     "source": {
@@ -42616,7 +42996,17 @@
         "synonyms": [
           "ancient times",
           "distant past"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The bridge dates back to ____; it was already standing during the Roman Empire.",
+          "correctAnswer": "antiquity",
+          "distractors": [
+            "modernity",
+            "industrialization",
+            "recent history"
+          ],
+          "explanationKo": "로마 제국 시기에 이미 서 있던 고대의 다리다."
+        }
       }
     ],
     "source": {
@@ -42635,7 +43025,17 @@
         "synonyms": [
           "approaching",
           "imminent"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The crew sought shelter from the ____ storm, which was expected to reach them within minutes.",
+          "correctAnswer": "impending",
+          "distractors": [
+            "distant",
+            "past",
+            "departing"
+          ],
+          "explanationKo": "수분 안에 닥칠 폭풍을 피해 대피했다."
+        }
       }
     ],
     "source": {
@@ -42655,7 +43055,17 @@
           "tenet",
           "principle",
           "dogma"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The religious order's ____ defines the beliefs that all members are expected to accept.",
+          "correctAnswer": "doctrine",
+          "distractors": [
+            "budget",
+            "inventory",
+            "geography"
+          ],
+          "explanationKo": "신도가 받아들여야 하는 믿음을 규정한 교리다."
+        }
       }
     ],
     "source": {
@@ -42676,7 +43086,17 @@
           "endow",
           "pitch in with",
           "conduce"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Each household agreed to ____ some money to help pay for the new playground.",
+          "correctAnswer": "contribute",
+          "distractors": [
+            "withdraw",
+            "recover",
+            "reclaim"
+          ],
+          "explanationKo": "놀이터 비용에 보태도록 가구마다 돈을 냈다."
+        }
       }
     ],
     "source": {
@@ -42697,7 +43117,17 @@
           "halt",
           "end",
           "terminate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Production will ____ at midnight, and no units will be made after that time.",
+          "correctAnswer": "cease",
+          "distractors": [
+            "begin",
+            "resume",
+            "accelerate"
+          ],
+          "explanationKo": "자정 이후에는 제품을 생산하지 않는다."
+        }
       }
     ],
     "source": {
@@ -42717,7 +43147,17 @@
           "before",
           "previous to",
           "ahead of"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Staff inspected the platform ____ the first performance, completing each check before the show began.",
+          "correctAnswer": "prior to",
+          "distractors": [
+            "after",
+            "following",
+            "in the wake of"
+          ],
+          "explanationKo": "첫 공연이 시작되기 전에 무대를 점검했다."
+        }
       }
     ],
     "source": {
@@ -42736,7 +43176,17 @@
         "synonyms": [
           "clean",
           "tidy"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The handler will ____ the dog by brushing its coat and trimming its nails before the show.",
+          "correctAnswer": "groom",
+          "distractors": [
+            "neglect",
+            "ignore",
+            "abandon"
+          ],
+          "explanationKo": "대회 전에 털을 빗고 발톱을 깎아 개를 단정히 손질한다."
+        }
       }
     ],
     "source": {
@@ -42755,7 +43205,17 @@
         "synonyms": [
           "variety",
           "difference"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The forest's ____ is apparent in the hundreds of plant species growing together there.",
+          "correctAnswer": "diversity",
+          "distractors": [
+            "uniformity",
+            "monotony",
+            "homogeneity"
+          ],
+          "explanationKo": "식물 수백 종이 한곳에서 자라 다양성이 뚜렷하다."
+        }
       }
     ],
     "source": {
@@ -42775,7 +43235,17 @@
           "match",
           "connect",
           "link"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Analysts will ____ the two variables to see whether higher rainfall tends to accompany lower temperatures.",
+          "correctAnswer": "correlate",
+          "distractors": [
+            "isolate",
+            "separate",
+            "disconnect"
+          ],
+          "explanationKo": "강수량이 높을수록 기온이 낮은 경향이 있는지 두 변수의 관계를 본다."
+        }
       }
     ],
     "source": {
@@ -42796,7 +43266,17 @@
           "upper crust",
           "aristocracy",
           "gentry"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The city's wealthy ____ controlled most property and could influence almost every political decision.",
+          "correctAnswer": "elite",
+          "distractors": [
+            "labor force",
+            "general public",
+            "working poor"
+          ],
+          "explanationKo": "재산과 정치적 영향력을 가진 도시의 최상류층이다."
+        }
       }
     ],
     "source": {
@@ -42814,7 +43294,17 @@
         "korean": "층을 이루다",
         "synonyms": [
           "layer"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The liquids will ____ as the denser one settles below the lighter one and distinct layers form.",
+          "correctAnswer": "stratify",
+          "distractors": [
+            "homogenize",
+            "blend",
+            "mix"
+          ],
+          "explanationKo": "밀도가 큰 액체가 아래로 가라앉아 서로 다른 층이 생긴다."
+        }
       }
     ],
     "source": {
@@ -42834,7 +43324,17 @@
           "reduce",
           "abate",
           "diminish"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Adding shade can ____ the heat felt by pedestrians on summer afternoons.",
+          "correctAnswer": "lessen",
+          "distractors": [
+            "increase",
+            "intensify",
+            "magnify"
+          ],
+          "explanationKo": "그늘을 더하면 오후에 보행자가 느끼는 더위를 줄인다."
+        }
       }
     ],
     "source": {
@@ -42855,7 +43355,17 @@
           "agitate",
           "unsettle",
           "worry"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The unexpected announcement could ____ the children and leave them worried for hours.",
+          "correctAnswer": "upset",
+          "distractors": [
+            "reassure",
+            "comfort",
+            "soothe"
+          ],
+          "explanationKo": "뜻밖의 발표로 아이들이 여러 시간 불안해할 수 있다."
+        }
       }
     ],
     "source": {
@@ -42874,7 +43384,17 @@
         "synonyms": [
           "come together",
           "accumulate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Dust particles can ____ over time, sticking together into progressively larger bodies.",
+          "correctAnswer": "accrete",
+          "distractors": [
+            "disperse",
+            "dissolve",
+            "disintegrate"
+          ],
+          "explanationKo": "먼지 입자가 달라붙어 점점 큰 덩어리가 된다."
+        }
       }
     ],
     "source": {
@@ -42894,7 +43414,17 @@
           "steady",
           "ceaseless",
           "incessant"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The electricity supply must remain ____: even a one-second outage stops production.",
+          "correctAnswer": "uninterrupted",
+          "distractors": [
+            "intermittent",
+            "sporadic",
+            "irregular"
+          ],
+          "explanationKo": "1초라도 전력이 끊기면 생산이 멈춘다."
+        }
       }
     ],
     "source": {
@@ -42914,7 +43444,17 @@
           "counterbalance",
           "counteract",
           "cancel out"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The grant helped ____ the higher fuel costs by covering an equivalent amount of the budget.",
+          "correctAnswer": "offset",
+          "distractors": [
+            "compound",
+            "increase",
+            "aggravate"
+          ],
+          "explanationKo": "늘어난 연료비만큼 지원금을 받아 증가분을 상쇄했다."
+        }
       }
     ],
     "source": {
@@ -42934,7 +43474,17 @@
           "undertake",
           "take on",
           "adopt"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The deputy will ____ responsibility for the project when the director retires.",
+          "correctAnswer": "assume",
+          "distractors": [
+            "avoid",
+            "evade",
+            "relinquish"
+          ],
+          "explanationKo": "책임자가 은퇴하면 부책임자가 사업을 맡는다."
+        }
       },
       {
         "senseId": "advance-1417-s2",
@@ -42991,7 +43541,17 @@
           "refer to",
           "mention",
           "allude to"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The report will ____ the original study so readers can trace the source of its figures.",
+          "correctAnswer": "cite",
+          "distractors": [
+            "suppress",
+            "conceal",
+            "omit"
+          ],
+          "explanationKo": "독자가 수치의 출처를 찾도록 원래 연구를 인용한다."
+        }
       }
     ],
     "source": {
@@ -43012,7 +43572,17 @@
           "often",
           "normally",
           "usually"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "This tree is ____ found along streams; it occurs beside most waterways in the region.",
+          "correctAnswer": "commonly",
+          "distractors": [
+            "rarely",
+            "seldom",
+            "infrequently"
+          ],
+          "explanationKo": "지역 하천 대부분에서 흔히 발견되는 나무다."
+        }
       }
     ],
     "source": {
@@ -43032,7 +43602,17 @@
           "find",
           "detect",
           "discover"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Using the coordinates, volunteers were able to ____ the missing buoy in minutes.",
+          "correctAnswer": "locate",
+          "distractors": [
+            "hide",
+            "conceal",
+            "misplace"
+          ],
+          "explanationKo": "좌표 덕분에 사라진 부표의 위치를 몇 분 만에 찾아냈다."
+        }
       },
       {
         "senseId": "advance-1421-s2",
@@ -43061,7 +43641,17 @@
           "force",
           "pressure",
           "enforce"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The government will ____ strict limits on water use even if some businesses object.",
+          "correctAnswer": "impose",
+          "distractors": [
+            "lift",
+            "waive",
+            "remove"
+          ],
+          "explanationKo": "일부 업체가 반대해도 물 사용에 엄격한 제한을 부과한다."
+        }
       }
     ],
     "source": {
@@ -43081,7 +43671,17 @@
           "requirement",
           "necessary condition",
           "precondition"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "A medical license is a ____ for the position: applicants without one cannot be considered.",
+          "correctAnswer": "prerequisite",
+          "distractors": [
+            "reward",
+            "consequence",
+            "exemption"
+          ],
+          "explanationKo": "의사 면허가 없으면 지원 자격이 없다."
+        }
       }
     ],
     "source": {
@@ -43100,7 +43700,17 @@
         "synonyms": [
           "exemption",
           "impunity"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The treaty granted diplomats ____ from local prosecution in specified circumstances.",
+          "correctAnswer": "immunity",
+          "distractors": [
+            "exposure",
+            "vulnerability",
+            "liability"
+          ],
+          "explanationKo": "정해진 조건에서 외교관이 현지 기소를 면제받게 했다."
+        }
       }
     ],
     "source": {
@@ -43120,7 +43730,17 @@
           "suitable",
           "appropriate",
           "apposite"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "This mask is the ____ protection for the job because it is certified for the dust workers encounter.",
+          "correctAnswer": "proper",
+          "distractors": [
+            "unsuitable",
+            "inappropriate",
+            "incorrect"
+          ],
+          "explanationKo": "작업 중 발생하는 먼지를 걸러 낼 인증을 받은 적절한 보호구다."
+        }
       }
     ],
     "source": {
@@ -43140,7 +43760,17 @@
           "start (on)",
           "begin",
           "commence"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The university will ____ a new research program after receiving its first major grant.",
+          "correctAnswer": "embark on",
+          "distractors": [
+            "abandon",
+            "withdraw from",
+            "bring an end to"
+          ],
+          "explanationKo": "첫 큰 연구비를 받아 새 연구 사업을 시작한다."
+        }
       }
     ],
     "source": {
@@ -43161,7 +43791,17 @@
           "search",
           "examine",
           "explore"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Investigators will ____ the cause of the outage by interviewing staff and examining the damaged equipment.",
+          "correctAnswer": "probe",
+          "distractors": [
+            "conceal",
+            "ignore",
+            "overlook"
+          ],
+          "explanationKo": "직원을 면담하고 장비를 살펴 정전 원인을 조사한다."
+        }
       },
       {
         "senseId": "advance-1427-s2",
@@ -43189,7 +43829,17 @@
           "use up",
           "deplete",
           "run out of"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Running the generator at full power could ____ the fuel supply before dawn, leaving nothing in the tank.",
+          "correctAnswer": "exhaust",
+          "distractors": [
+            "replenish",
+            "refill",
+            "restore"
+          ],
+          "explanationKo": "최대로 가동하면 새벽 전에 탱크의 연료를 다 쓸 수 있다."
+        }
       },
       {
         "senseId": "advance-1428-s2",
@@ -43218,7 +43868,17 @@
           "only",
           "sole",
           "single"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The publisher obtained ____ rights to the interview; no other outlet may print it.",
+          "correctAnswer": "exclusive",
+          "distractors": [
+            "shared",
+            "joint",
+            "nonexclusive"
+          ],
+          "explanationKo": "다른 매체에는 인터뷰를 게재할 권리가 없다."
+        }
       }
     ],
     "source": {
@@ -43239,7 +43899,17 @@
           "control",
           "operate",
           "maneuver"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Surgeons ____ the tiny instrument with a joystick that controls each movement.",
+          "correctAnswer": "manipulate",
+          "distractors": [
+            "discard",
+            "ignore",
+            "neglect"
+          ],
+          "explanationKo": "움직임마다 조절하는 조이스틱으로 작은 기구를 다룬다."
+        }
       },
       {
         "senseId": "advance-1430-s2",
@@ -43267,7 +43937,17 @@
           "continued",
           "constant",
           "persistent"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The inquiry is ____: investigators are still collecting statements and have not completed their report.",
+          "correctAnswer": "ongoing",
+          "distractors": [
+            "concluded",
+            "finished",
+            "closed"
+          ],
+          "explanationKo": "계속 진술을 모으고 있어 조사가 아직 진행 중이다."
+        }
       }
     ],
     "source": {
@@ -43287,7 +43967,17 @@
           "fundamental",
           "elementary",
           "basic"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Reading and writing are ____ skills taught before the more specialized subjects.",
+          "correctAnswer": "primary",
+          "distractors": [
+            "advanced",
+            "secondary",
+            "specialized"
+          ],
+          "explanationKo": "전문 과목에 앞서 읽기와 쓰기의 기본 능력을 가르친다."
+        }
       }
     ],
     "source": {
@@ -43307,7 +43997,17 @@
           "space",
           "distance",
           "period"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "There was a ten-minute ____ between the first announcement and the second.",
+          "correctAnswer": "interval",
+          "distractors": [
+            "overlap",
+            "deadline",
+            "coincidence"
+          ],
+          "explanationKo": "첫 안내와 두 번째 안내 사이에 10분의 간격이 있었다."
+        }
       }
     ],
     "source": {
@@ -43327,7 +44027,17 @@
           "bring about",
           "trigger",
           "provoke"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The proposal could ____ debate by raising questions that both sides had previously avoided.",
+          "correctAnswer": "spark",
+          "distractors": [
+            "quell",
+            "suppress",
+            "silence"
+          ],
+          "explanationKo": "양측이 피하던 문제를 제기해 논쟁을 일으킬 수 있다."
+        }
       }
     ],
     "source": {
@@ -43347,7 +44057,17 @@
           "stubbornness",
           "determination",
           "firmness"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Her ____ was apparent when she reused the same failed design despite repeated advice to change it.",
+          "correctAnswer": "tenacity",
+          "distractors": [
+            "flexibility",
+            "open-mindedness",
+            "adaptability"
+          ],
+          "explanationKo": "설계를 바꾸라는 조언에도 실패한 설계를 고집했다."
+        }
       }
     ],
     "source": {
@@ -43366,7 +44086,17 @@
         "synonyms": [
           "characteristic",
           "peculiar"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "A ____ blue stripe lets observers identify this bird among otherwise similar species.",
+          "correctAnswer": "distinctive",
+          "distractors": [
+            "common",
+            "universal",
+            "generic"
+          ],
+          "explanationKo": "비슷한 종 사이에서 이 새를 구별하게 해 주는 특유의 파란 줄무늬다."
+        }
       }
     ],
     "source": {
@@ -43386,7 +44116,17 @@
           "cooperative",
           "concerted",
           "joint"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The study was a ____ effort, jointly planned and carried out by researchers at three universities.",
+          "correctAnswer": "collaborative",
+          "distractors": [
+            "solitary",
+            "unilateral",
+            "individual"
+          ],
+          "explanationKo": "세 대학 연구자가 함께 계획하고 수행했다."
+        }
       }
     ],
     "source": {
@@ -43404,7 +44144,17 @@
         "korean": "(습관 등이) 깊이 배어든, 뿌리박힌",
         "synonyms": [
           "firmly established"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The habit was ____ after being repeated daily since childhood and proved difficult to break.",
+          "correctAnswer": "deeply ingrained",
+          "distractors": [
+            "newly acquired",
+            "easily forgotten",
+            "only recently formed"
+          ],
+          "explanationKo": "어릴 때부터 날마다 반복해 버리기 어려울 만큼 깊이 배었다."
+        }
       }
     ],
     "source": {
@@ -43424,7 +44174,17 @@
           "immediate",
           "prompt",
           "on-the-spot"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The response was ____, occurring in the same instant as the signal with no measurable delay.",
+          "correctAnswer": "instantaneous",
+          "distractors": [
+            "delayed",
+            "deferred",
+            "belated"
+          ],
+          "explanationKo": "측정 가능한 지연 없이 신호와 같은 순간에 반응했다."
+        }
       }
     ],
     "source": {
@@ -43444,7 +44204,17 @@
           "create movement in",
           "stir",
           "beat"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The motor will ____ the liquid, keeping the solid particles swirling instead of letting them settle.",
+          "correctAnswer": "agitate",
+          "distractors": [
+            "calm",
+            "still",
+            "settle"
+          ],
+          "explanationKo": "액체를 휘저어 입자가 가라앉지 않게 한다."
+        }
       }
     ],
     "source": {
@@ -43462,7 +44232,17 @@
         "korean": "옆모습으로",
         "synonyms": [
           "from side view"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The coin shows the queen ____; only one side of her face is visible.",
+          "correctAnswer": "in profile",
+          "distractors": [
+            "head-on",
+            "from the front",
+            "face-on"
+          ],
+          "explanationKo": "동전에서 여왕 얼굴의 한쪽 면만 보인다."
+        }
       }
     ],
     "source": {
@@ -43482,7 +44262,17 @@
           "particularly",
           "notable",
           "specially"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The shelter is useful in winter, ____ on nights when the temperature falls below freezing.",
+          "correctAnswer": "especially",
+          "distractors": [
+            "except",
+            "never",
+            "hardly"
+          ],
+          "explanationKo": "겨울에도 특히 영하로 떨어지는 밤에 유용하다."
+        }
       }
     ],
     "source": {
@@ -43501,7 +44291,17 @@
         "synonyms": [
           "inventive",
           "imaginative"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The ____ designer found a novel use for fabric scraps that others had thrown away.",
+          "correctAnswer": "creative",
+          "distractors": [
+            "unimaginative",
+            "imitative",
+            "unoriginal"
+          ],
+          "explanationKo": "다른 사람들이 버린 천 조각의 새로운 쓰임을 찾았다."
+        }
       }
     ],
     "source": {
@@ -43522,7 +44322,17 @@
           "border",
           "verge",
           "margin"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "She ran her finger around the ____ of the cup, feeling a chip on the edge of its opening.",
+          "correctAnswer": "rim",
+          "distractors": [
+            "base",
+            "handle",
+            "stem"
+          ],
+          "explanationKo": "컵 입구 가장자리를 만지다 이가 빠진 부분을 느꼈다."
+        }
       }
     ],
     "source": {
@@ -43543,7 +44353,17 @@
           "concerned",
           "apprehensive",
           "uneasy"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Families grew ____ about the missing hikers as darkness fell and no signal arrived.",
+          "correctAnswer": "anxious",
+          "distractors": [
+            "relieved",
+            "calm",
+            "reassured"
+          ],
+          "explanationKo": "날이 어두워지고 신호가 없어 가족들이 걱정했다."
+        }
       },
       {
         "senseId": "advance-1445-s2",
@@ -43573,7 +44393,17 @@
           "call for",
           "entail",
           "need"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The rules ____ each applicant to sign the form; unsigned copies will not be accepted.",
+          "correctAnswer": "require",
+          "distractors": [
+            "forbid",
+            "discourage",
+            "prevent"
+          ],
+          "explanationKo": "서명 없는 신청서는 받지 않아 반드시 서명해야 한다."
+        }
       }
     ],
     "source": {
@@ -43591,7 +44421,17 @@
         "korean": "편리한",
         "synonyms": [
           "convenient"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The pocket guide is ____ on field trips because it is easy to carry and quick to consult.",
+          "correctAnswer": "handy",
+          "distractors": [
+            "cumbersome",
+            "unwieldy",
+            "inconvenient"
+          ],
+          "explanationKo": "들고 다니기 쉽고 바로 찾아볼 수 있어 편리하다."
+        }
       }
     ],
     "source": {
@@ -43612,7 +44452,17 @@
           "infrequent",
           "scarce",
           "uncommon"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The bird is ____ in this area; only two sightings have been recorded in fifty years.",
+          "correctAnswer": "rare",
+          "distractors": [
+            "common",
+            "abundant",
+            "widespread"
+          ],
+          "explanationKo": "50년 동안 두 번만 관찰돼 이 지역에서는 드물다."
+        }
       }
     ],
     "source": {
@@ -43633,7 +44483,17 @@
           "assiduously",
           "carefully",
           "industriously"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The apprentice worked ____ for months, practicing every movement until she could perform it accurately.",
+          "correctAnswer": "diligently",
+          "distractors": [
+            "idly",
+            "negligently",
+            "carelessly"
+          ],
+          "explanationKo": "모든 동작을 정확히 할 수 있을 때까지 수개월간 열심히 연습했다."
+        }
       }
     ],
     "source": {
@@ -43651,7 +44511,17 @@
         "korean": "상호 배타적인",
         "synonyms": [
           "different from one another"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The two outcomes are ____: the same person cannot both win and lose this match.",
+          "correctAnswer": "mutually exclusive",
+          "distractors": [
+            "compatible",
+            "interdependent",
+            "complementary"
+          ],
+          "explanationKo": "같은 경기에서 한 사람이 이기면서 질 수는 없다."
+        }
       }
     ],
     "source": {
@@ -43671,7 +44541,17 @@
           "empty",
           "unoccupied",
           "void"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The apartment remained ____ for a year after the tenants moved out.",
+          "correctAnswer": "vacant",
+          "distractors": [
+            "occupied",
+            "inhabited",
+            "tenanted"
+          ],
+          "explanationKo": "세입자가 떠난 뒤 일 년 동안 비어 있었다."
+        }
       }
     ],
     "source": {
@@ -43691,7 +44571,17 @@
           "depict",
           "portray",
           "express"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Small triangles ____ mountain peaks on the map, while blue lines show rivers.",
+          "correctAnswer": "represent",
+          "distractors": [
+            "erase",
+            "conceal",
+            "obscure"
+          ],
+          "explanationKo": "지도에서 작은 삼각형은 산봉우리를 나타낸다."
+        }
       }
     ],
     "source": {
@@ -43711,7 +44601,17 @@
           "decide",
           "make a final judgement",
           "determine"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The judges could ____ that the recording was genuine after two laboratories verified its origin.",
+          "correctAnswer": "conclude",
+          "distractors": [
+            "doubt",
+            "dispute",
+            "deny"
+          ],
+          "explanationKo": "두 연구실이 출처를 검증해 녹음이 진짜라고 결론지었다."
+        }
       }
     ],
     "source": {
@@ -43729,7 +44629,17 @@
         "korean": "(법률) 제정",
         "synonyms": [
           "establishment"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The ____ of the new law followed a final vote in both chambers of the legislature.",
+          "correctAnswer": "enactment",
+          "distractors": [
+            "repeal",
+            "annulment",
+            "revocation"
+          ],
+          "explanationKo": "양원에서 최종 표결을 거쳐 새 법을 제정했다."
+        }
       }
     ],
     "source": {
@@ -43749,7 +44659,17 @@
           "inhibit",
           "hinder",
           "obstruct"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Ice could ____ rescue efforts by making the only road impassable.",
+          "correctAnswer": "impede",
+          "distractors": [
+            "accelerate",
+            "facilitate",
+            "expedite"
+          ],
+          "explanationKo": "얼음이 유일한 도로를 막아 구조를 방해할 수 있다."
+        }
       }
     ],
     "source": {
@@ -43769,7 +44689,17 @@
           "modest",
           "unpretentious",
           "unassuming"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The inventor remained ____ despite international acclaim and gave all the credit to her team.",
+          "correctAnswer": "humble",
+          "distractors": [
+            "boastful",
+            "arrogant",
+            "conceited"
+          ],
+          "explanationKo": "국제적으로 찬사를 받아도 팀에게 공을 돌리는 겸손함을 보였다."
+        }
       }
     ],
     "source": {
@@ -43788,7 +44718,17 @@
         "synonyms": [
           "assumption",
           "presupposition"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The argument rests on the ____ that the survey sample represents the population accurately.",
+          "correctAnswer": "premise",
+          "distractors": [
+            "outcome",
+            "conclusion",
+            "aftermath"
+          ],
+          "explanationKo": "표본이 모집단을 정확히 대표한다는 전제에 근거한다."
+        }
       }
     ],
     "source": {
@@ -43809,7 +44749,17 @@
           "discard",
           "throw away",
           "cast off"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The crew had to ____ excess baggage to make the overloaded boat safe again.",
+          "correctAnswer": "jettison",
+          "distractors": [
+            "retain",
+            "load",
+            "preserve"
+          ],
+          "explanationKo": "배가 너무 무거워 안전을 위해 필요 이상의 짐을 버렸다."
+        }
       }
     ],
     "source": {
@@ -43830,7 +44780,17 @@
           "seclude",
           "dissociate",
           "disunite"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The facility will ____ contaminated equipment from clean items by keeping it in a separate room.",
+          "correctAnswer": "segregate",
+          "distractors": [
+            "mix",
+            "combine",
+            "integrate"
+          ],
+          "explanationKo": "오염 장비는 깨끗한 물품과 분리해 별실에 보관한다."
+        }
       }
     ],
     "source": {
@@ -43850,7 +44810,17 @@
           "countless",
           "numberless",
           "numerous"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The beach was covered with ____ shells, far too many for any visitor to count.",
+          "correctAnswer": "innumerable",
+          "distractors": [
+            "few",
+            "scarce",
+            "isolated"
+          ],
+          "explanationKo": "누구도 셀 수 없을 만큼 조개껍데기가 많았다."
+        }
       }
     ],
     "source": {
@@ -43871,7 +44841,17 @@
           "ruin",
           "devastation",
           "demolition"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The storm wreaked ____ along the coast, damaging hundreds of buildings and blocking every road.",
+          "correctAnswer": "havoc",
+          "distractors": [
+            "order",
+            "stability",
+            "calm"
+          ],
+          "explanationKo": "폭풍이 건물 수백 채를 손상시키고 도로를 막아 큰 피해를 줬다."
+        }
       }
     ],
     "source": {
@@ -43891,7 +44871,17 @@
           "decrease",
           "diminish",
           "lessen"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Supplies began to ____ as each shipment arrived late and the shelves grew emptier.",
+          "correctAnswer": "dwindle",
+          "distractors": [
+            "increase",
+            "accumulate",
+            "expand"
+          ],
+          "explanationKo": "배송이 계속 늦어져 진열대의 물건이 줄어들었다."
+        }
       }
     ],
     "source": {
@@ -43910,7 +44900,17 @@
         "synonyms": [
           "idea",
           "notion"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The teacher used drawings to explain the ____ of an ecosystem before giving examples of real forests.",
+          "correctAnswer": "concept",
+          "distractors": [
+            "instrument",
+            "location",
+            "specimen"
+          ],
+          "explanationKo": "실제 숲의 예를 들기 전에 생태계라는 개념을 그림으로 설명했다."
+        }
       }
     ],
     "source": {
@@ -43929,7 +44929,17 @@
         "synonyms": [
           "extraordinary",
           "exciting"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The team announced a ____ discovery that overturned a belief scientists had held for decades.",
+          "correctAnswer": "sensational",
+          "distractors": [
+            "routine",
+            "unremarkable",
+            "ordinary"
+          ],
+          "explanationKo": "수십 년간 믿어 온 생각을 뒤집는 놀라운 발견이다."
+        }
       }
     ],
     "source": {
@@ -43950,7 +44960,17 @@
           "compelling",
           "credible",
           "cogent"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Her explanation was ____ because independent records backed up each of her claims.",
+          "correctAnswer": "convincing",
+          "distractors": [
+            "unpersuasive",
+            "implausible",
+            "unsubstantiated"
+          ],
+          "explanationKo": "독립 기록이 주장을 하나씩 뒷받침해 설득력 있었다."
+        }
       }
     ],
     "source": {
@@ -43970,7 +44990,17 @@
           "understanding",
           "perception",
           "sense"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The interviews offered ____ into why residents had stopped using public transport.",
+          "correctAnswer": "insight",
+          "distractors": [
+            "confusion",
+            "ignorance",
+            "misunderstanding"
+          ],
+          "explanationKo": "주민들이 대중교통을 그만 이용한 이유를 더 잘 이해하게 됐다."
+        }
       }
     ],
     "source": {
@@ -43990,7 +45020,17 @@
           "plainly",
           "candidly",
           "ingenuously"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "He ____ assumed the stranger would return the cash, never considering that it might be a scam.",
+          "correctAnswer": "naively",
+          "distractors": [
+            "cautiously",
+            "skeptically",
+            "warily"
+          ],
+          "explanationKo": "사기 가능성을 생각하지 않고 순진하게 돈을 돌려줄 거라고 믿었다."
+        }
       }
     ],
     "source": {
@@ -44011,7 +45051,17 @@
           "uncertain",
           "imprecise",
           "obscure"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The instructions were ____: they listed several options without explaining which one applied.",
+          "correctAnswer": "vague",
+          "distractors": [
+            "precise",
+            "explicit",
+            "unambiguous"
+          ],
+          "explanationKo": "어느 선택지가 적용되는지 설명하지 않아 모호했다."
+        }
       }
     ],
     "source": {
@@ -44031,7 +45081,17 @@
           "connect",
           "correlated",
           "linked"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Prolonged exposure to extreme heat carries several ____ risks, including dehydration and fainting.",
+          "correctAnswer": "associated",
+          "distractors": [
+            "unrelated",
+            "unconnected",
+            "independent"
+          ],
+          "explanationKo": "극심한 열에 오래 노출되는 것과 관련된 위험을 확인했다."
+        }
       }
     ],
     "source": {
@@ -44049,7 +45109,17 @@
         "korean": "부연 설명",
         "synonyms": [
           "further explanation"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The editors requested further ____ of the theory, asking for examples and a fuller explanation of each claim.",
+          "correctAnswer": "amplification",
+          "distractors": [
+            "abridgment",
+            "retraction",
+            "omission"
+          ],
+          "explanationKo": "이론의 주장마다 예와 자세한 설명을 덧붙여 달라고 했다."
+        }
       }
     ],
     "source": {
@@ -44070,7 +45140,17 @@
           "remains",
           "trace",
           "relic"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The stone gate is the last ____ of the old fortress; the walls and towers have all disappeared.",
+          "correctAnswer": "remnant",
+          "distractors": [
+            "blueprint",
+            "replica",
+            "proposal"
+          ],
+          "explanationKo": "성벽과 탑은 모두 사라지고 돌문만 남았다."
+        }
       }
     ],
     "source": {
@@ -44090,7 +45170,17 @@
           "essential",
           "necessary",
           "requisite"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Clean water is ____ to the community: people cannot survive there without it.",
+          "correctAnswer": "indispensable",
+          "distractors": [
+            "optional",
+            "dispensable",
+            "unnecessary"
+          ],
+          "explanationKo": "없으면 지역 주민이 살아갈 수 없는 필수 요소다."
+        }
       }
     ],
     "source": {
@@ -44109,7 +45199,17 @@
         "synonyms": [
           "weaken",
           "attenuate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Repeated errors could ____ public confidence in the system until very few people are willing to use it.",
+          "correctAnswer": "undermine",
+          "distractors": [
+            "strengthen",
+            "restore",
+            "reinforce"
+          ],
+          "explanationKo": "오류가 거듭되면 사용자가 거의 없을 만큼 신뢰가 약해질 수 있다."
+        }
       }
     ],
     "source": {
@@ -44129,7 +45229,17 @@
           "way",
           "manner",
           "mode"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The containers should be opened in the same ____ described in the manual, using the same sequence each time.",
+          "correctAnswer": "fashion",
+          "distractors": [
+            "location",
+            "season",
+            "building"
+          ],
+          "explanationKo": "매번 설명서에 나온 순서와 방식으로 용기를 연다."
+        }
       },
       {
         "senseId": "advance-1474-s2",
@@ -44158,7 +45268,17 @@
           "extend",
           "lengthen",
           "protract"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The board voted to ____ the trial by six months rather than end it on the original date.",
+          "correctAnswer": "prolong",
+          "distractors": [
+            "curtail",
+            "shorten",
+            "terminate"
+          ],
+          "explanationKo": "원래 날짜에 끝내는 대신 시험을 6개월 연장했다."
+        }
       }
     ],
     "source": {
@@ -44177,7 +45297,17 @@
         "synonyms": [
           "sufficient",
           "satisfactory"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The supplies were ____: everyone received enough food and water for the journey.",
+          "correctAnswer": "adequate",
+          "distractors": [
+            "insufficient",
+            "inadequate",
+            "deficient"
+          ],
+          "explanationKo": "모두가 여정에 필요한 음식과 물을 충분히 받았다."
+        }
       }
     ],
     "source": {
@@ -44196,7 +45326,17 @@
         "synonyms": [
           "stop",
           "cease"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The emergency switch can ____ production by stopping every machine at once.",
+          "correctAnswer": "halt",
+          "distractors": [
+            "resume",
+            "accelerate",
+            "restart"
+          ],
+          "explanationKo": "비상 스위치가 모든 기계를 한꺼번에 멈춰 생산을 중단시킨다."
+        }
       }
     ],
     "source": {
@@ -44216,7 +45356,17 @@
           "debatable",
           "dispute",
           "producing disagreement"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The plan remained ____ for years, dividing both the public and the panel of experts.",
+          "correctAnswer": "controversial",
+          "distractors": [
+            "uncontroversial",
+            "undisputed",
+            "unanimous"
+          ],
+          "explanationKo": "일반 시민과 전문가의 의견이 갈려 수년간 논쟁이 이어졌다."
+        }
       }
     ],
     "source": {
@@ -44236,7 +45386,17 @@
           "equal",
           "rival",
           "parallel"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "No competing device can ____ this model's speed; every rival takes at least twice as long.",
+          "correctAnswer": "match",
+          "distractors": [
+            "exceed",
+            "outpace",
+            "surpass"
+          ],
+          "explanationKo": "경쟁 기기가 두 배 이상 오래 걸려 이 모델의 속도에 필적하지 못한다."
+        }
       }
     ],
     "source": {
@@ -44257,7 +45417,17 @@
           "surviving",
           "everlasting",
           "perpetual"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The treaty brought ____ peace that persisted for more than a century.",
+          "correctAnswer": "enduring",
+          "distractors": [
+            "brief",
+            "temporary",
+            "fleeting"
+          ],
+          "explanationKo": "조약으로 평화가 한 세기 넘게 지속됐다."
+        }
       }
     ],
     "source": {
@@ -44277,7 +45447,17 @@
           "limit",
           "confine",
           "restrain"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The rules ____ admission to registered members and prohibit anyone else from entering.",
+          "correctAnswer": "restrict",
+          "distractors": [
+            "extend",
+            "broaden",
+            "expand"
+          ],
+          "explanationKo": "등록 회원만 입장하게 제한한다."
+        }
       }
     ],
     "source": {
@@ -44297,7 +45477,17 @@
           "include",
           "contain",
           "embrace"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The study will ____ the entire river basin, including both the main channel and every tributary.",
+          "correctAnswer": "encompass",
+          "distractors": [
+            "exclude",
+            "omit",
+            "disregard"
+          ],
+          "explanationKo": "주 물길과 모든 지류를 포함해 유역 전체를 연구한다."
+        }
       }
     ],
     "source": {
@@ -44316,7 +45506,17 @@
         "synonyms": [
           "contemplate",
           "take into account"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The council agreed to ____ the proposal carefully before deciding whether to approve it.",
+          "correctAnswer": "consider",
+          "distractors": [
+            "ignore",
+            "disregard",
+            "overlook"
+          ],
+          "explanationKo": "승인 여부를 정하기 전에 제안을 신중히 검토하기로 했다."
+        }
       }
     ],
     "source": {
@@ -44338,7 +45538,17 @@
           "synthesize",
           "interconnect",
           "consolidate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The city will ____ the bus and rail networks so passengers can use one ticket for both.",
+          "correctAnswer": "integrate",
+          "distractors": [
+            "separate",
+            "fragment",
+            "isolate"
+          ],
+          "explanationKo": "표 한 장으로 버스와 철도를 모두 타도록 두 교통망을 통합한다."
+        }
       }
     ],
     "source": {
@@ -44358,7 +45568,17 @@
           "surprising",
           "astonishing",
           "alarming"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The finding was ____: the supposedly empty chamber was full of ancient tools.",
+          "correctAnswer": "startling",
+          "distractors": [
+            "unsurprising",
+            "predictable",
+            "unremarkable"
+          ],
+          "explanationKo": "비었다고 생각한 방에서 고대 도구가 가득 나와 놀라웠다."
+        }
       }
     ],
     "source": {
@@ -44376,7 +45596,17 @@
         "korean": "설명되지 않은",
         "synonyms": [
           "not explained"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Two charges remain ____ because no receipt or ledger entry explains them.",
+          "correctAnswer": "unaccounted for",
+          "distractors": [
+            "fully explained",
+            "properly documented",
+            "clearly identified"
+          ],
+          "explanationKo": "영수증이나 장부에 설명이 없어 청구 두 건은 근거가 밝혀지지 않았다."
+        }
       }
     ],
     "source": {
@@ -44396,7 +45626,17 @@
           "indicate",
           "reveal",
           "demonstrate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Some patients ____ symptoms within minutes, displaying a rash or a sudden fever.",
+          "correctAnswer": "manifest",
+          "distractors": [
+            "conceal",
+            "mask",
+            "hide"
+          ],
+          "explanationKo": "일부 환자는 몇 분 만에 발진이나 발열 증상을 보인다."
+        }
       },
       {
         "senseId": "advance-1487-s2",
@@ -44426,7 +45666,17 @@
           "easily broken",
           "delicate",
           "weak"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The ____ glass must be wrapped carefully because even a small impact can break it.",
+          "correctAnswer": "fragile",
+          "distractors": [
+            "rugged",
+            "sturdy",
+            "unbreakable"
+          ],
+          "explanationKo": "작은 충격에도 깨질 수 있는 유리라 조심해서 싸야 한다."
+        }
       }
     ],
     "source": {
@@ -44447,7 +45697,17 @@
           "exact",
           "precise",
           "veracious"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The model is ____ to the original building, reproducing even the smallest decorative details.",
+          "correctAnswer": "faithful",
+          "distractors": [
+            "untrue",
+            "inaccurate",
+            "unrelated"
+          ],
+          "explanationKo": "작은 장식까지 재현해 모형이 원본에 충실하다."
+        }
       }
     ],
     "source": {
@@ -44467,7 +45727,17 @@
           "admit",
           "accept as true",
           "acknowledge"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "After reviewing the verified figures, the manager had to ____ that his initial estimate was wrong.",
+          "correctAnswer": "concede",
+          "distractors": [
+            "deny",
+            "dispute",
+            "reject"
+          ],
+          "explanationKo": "검증된 수치를 본 뒤 처음 추정이 틀렸음을 인정해야 했다."
+        }
       },
       {
         "senseId": "advance-1490-s2",
@@ -44495,7 +45765,17 @@
           "menace",
           "imperil",
           "jeopardize"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Rising sea levels could ____ the survival of coastal villages by flooding their homes and fields.",
+          "correctAnswer": "threaten",
+          "distractors": [
+            "safeguard",
+            "protect",
+            "ensure"
+          ],
+          "explanationKo": "집과 논밭이 잠겨 해안 마을의 존속이 위태로울 수 있다."
+        }
       }
     ],
     "source": {
@@ -44514,7 +45794,17 @@
         "synonyms": [
           "fundamentally change",
           "completely change"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The invention could ____ farming by replacing hours of manual labor with automated work.",
+          "correctAnswer": "revolutionize",
+          "distractors": [
+            "preserve",
+            "maintain",
+            "retain"
+          ],
+          "explanationKo": "수시간의 수작업을 자동화해 농업 방식을 크게 바꿀 수 있다."
+        }
       }
     ],
     "source": {
@@ -44534,7 +45824,17 @@
           "random",
           "chance",
           "casual"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The search was ____: teams picked areas at random and repeatedly checked the same locations.",
+          "correctAnswer": "haphazard",
+          "distractors": [
+            "systematic",
+            "methodical",
+            "organized"
+          ],
+          "explanationKo": "구역을 되는대로 골라 같은 곳을 거듭 확인했다."
+        }
       }
     ],
     "source": {
@@ -44554,7 +45854,17 @@
           "important part",
           "anchor",
           "buttress"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Fishing is the ____ of the local economy, providing most jobs and nearly all export revenue.",
+          "correctAnswer": "mainstay",
+          "distractors": [
+            "burden",
+            "obstacle",
+            "liability"
+          ],
+          "explanationKo": "대부분의 일자리와 수출 소득이 어업에 의존한다."
+        }
       }
     ],
     "source": {
@@ -44575,7 +45885,17 @@
           "entirely",
           "fully",
           "thoroughly"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The accusation was ____ false: investigators confirmed that none of its claims was true.",
+          "correctAnswer": "wholly",
+          "distractors": [
+            "partly",
+            "partially",
+            "somewhat"
+          ],
+          "explanationKo": "어떤 주장도 사실이 아니어서 전적으로 거짓이었다."
+        }
       }
     ],
     "source": {
@@ -44595,7 +45915,17 @@
           "eatable",
           "fit to eat",
           "safe to eat"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "These berries are ____ and are commonly used in pies and jams.",
+          "correctAnswer": "edible",
+          "distractors": [
+            "inedible",
+            "toxic",
+            "poisonous"
+          ],
+          "explanationKo": "파이나 잼에 흔히 넣는 먹을 수 있는 열매다."
+        }
       }
     ],
     "source": {
@@ -44614,7 +45944,17 @@
         "synonyms": [
           "recognizable",
           "readable"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The signature was still ____ after a century; the reader could identify every letter.",
+          "correctAnswer": "legible",
+          "distractors": [
+            "illegible",
+            "unreadable",
+            "indecipherable"
+          ],
+          "explanationKo": "한 세기가 지나도 글자 하나하나를 읽을 수 있었다."
+        }
       }
     ],
     "source": {
@@ -44635,7 +45975,17 @@
           "inspect",
           "investigate",
           "probe"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Auditors will ____ every entry, checking each amount against its original receipt.",
+          "correctAnswer": "scrutinize",
+          "distractors": [
+            "ignore",
+            "overlook",
+            "skim"
+          ],
+          "explanationKo": "항목의 금액을 원본 영수증과 하나씩 대조한다."
+        }
       }
     ],
     "source": {
@@ -44656,7 +46006,17 @@
           "fundamentally",
           "basically",
           "in substance"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The two plans use different names, but ____ they propose the same method and would produce the same result.",
+          "correctAnswer": "in essence",
+          "distractors": [
+            "in name only",
+            "at first glance",
+            "on the surface"
+          ],
+          "explanationKo": "이름은 다르지만 방법과 결과가 본질적으로 같다."
+        }
       }
     ],
     "source": {
@@ -44677,7 +46037,17 @@
           "helpful",
           "advantageous",
           "profitable"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The change was ____ for cyclists, who could now travel safely on protected lanes.",
+          "correctAnswer": "beneficial",
+          "distractors": [
+            "harmful",
+            "damaging",
+            "detrimental"
+          ],
+          "explanationKo": "보호된 차로로 더 안전하게 달릴 수 있어 자전거 이용자에게 유익했다."
+        }
       }
     ],
     "source": {
@@ -44698,7 +46068,17 @@
           "spread",
           "allot",
           "apportion"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The organization will ____ blankets among the shelters, giving fifty to each location.",
+          "correctAnswer": "distribute",
+          "distractors": [
+            "collect",
+            "retrieve",
+            "withdraw"
+          ],
+          "explanationKo": "대피소마다 담요 50장씩 나누어 준다."
+        }
       }
     ],
     "source": {
@@ -44717,7 +46097,17 @@
         "synonyms": [
           "inheritor",
           "successor"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "As the only legal ____, she inherited the estate after her grandfather's death.",
+          "correctAnswer": "heir",
+          "distractors": [
+            "creditor",
+            "debtor",
+            "tenant"
+          ],
+          "explanationKo": "유일한 법적 상속인이어서 할아버지의 재산을 물려받았다."
+        }
       }
     ],
     "source": {
@@ -44737,7 +46127,17 @@
           "specially",
           "especially",
           "particularly"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The fund was created ____ for emergency repairs and cannot be used for any other purpose.",
+          "correctAnswer": "specifically",
+          "distractors": [
+            "generally",
+            "indiscriminately",
+            "universally"
+          ],
+          "explanationKo": "긴급 수리라는 특정 목적 외에는 기금을 쓸 수 없다."
+        }
       }
     ],
     "source": {
@@ -44756,7 +46156,17 @@
         "synonyms": [
           "expensive",
           "high-priced"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Replacing the bridge would be ____: construction alone would consume the entire annual budget.",
+          "correctAnswer": "costly",
+          "distractors": [
+            "cheap",
+            "inexpensive",
+            "economical"
+          ],
+          "explanationKo": "공사비만으로 연간 예산이 다 들 만큼 비싸다."
+        }
       }
     ],
     "source": {
@@ -44776,7 +46186,17 @@
           "produce",
           "generate",
           "give"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Under ideal conditions, the orchard can ____ several tons of fruit in a single season.",
+          "correctAnswer": "yield",
+          "distractors": [
+            "consume",
+            "waste",
+            "discard"
+          ],
+          "explanationKo": "조건이 좋으면 한 철에 과일을 몇 톤씩 생산한다."
+        }
       },
       {
         "senseId": "advance-1505-s2",
@@ -44803,7 +46223,17 @@
         "korean": "(관심, 노력 등을) 돌리다, 쏟다",
         "synonyms": [
           "direct"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The coordinator will ____ staff time into urgent repairs rather than tasks that can wait.",
+          "correctAnswer": "channel",
+          "distractors": [
+            "misdirect",
+            "scatter",
+            "disperse"
+          ],
+          "explanationKo": "나중에 해도 되는 일보다 긴급 수리에 직원의 시간을 쏟는다."
+        }
       }
     ],
     "source": {
@@ -44824,7 +46254,17 @@
           "requisite",
           "essential",
           "indispensable"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "A signed consent form is ____ for enrollment; no applicant can participate without one.",
+          "correctAnswer": "necessary",
+          "distractors": [
+            "optional",
+            "dispensable",
+            "unnecessary"
+          ],
+          "explanationKo": "서명된 동의서 없이는 한 명도 참가할 수 없다."
+        }
       }
     ],
     "source": {
@@ -44862,7 +46302,17 @@
           "summary",
           "outline",
           "synopsis"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The introduction gives a brief ____ of the study by outlining its goals, methods, and results.",
+          "correctAnswer": "overview",
+          "distractors": [
+            "appendix",
+            "transcript",
+            "raw dataset"
+          ],
+          "explanationKo": "연구의 목표, 방법, 결과를 서두에서 간단히 훑는다."
+        }
       }
     ],
     "source": {
@@ -44882,7 +46332,17 @@
           "infrequent",
           "sporadic",
           "intermittent"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Outages are only ____, occurring perhaps once every few months.",
+          "correctAnswer": "occasional",
+          "distractors": [
+            "constant",
+            "continual",
+            "uninterrupted"
+          ],
+          "explanationKo": "몇 달에 한 번 가끔 끊기는 것 외에는 안정적으로 작동한다."
+        }
       }
     ],
     "source": {
@@ -44902,7 +46362,17 @@
           "separately",
           "individually",
           "each"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The two towers are forty and sixty meters tall, ____, with the first shorter than the second.",
+          "correctAnswer": "respectively",
+          "distractors": [
+            "jointly",
+            "combined",
+            "altogether"
+          ],
+          "explanationKo": "첫 번째 탑은 40미터, 두 번째는 60미터다."
+        }
       }
     ],
     "source": {
@@ -44922,7 +46392,17 @@
           "tempt",
           "allure",
           "seduce"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The shop offered free samples to ____ passersby into coming inside and trying its products.",
+          "correctAnswer": "entice",
+          "distractors": [
+            "deter",
+            "discourage",
+            "repel"
+          ],
+          "explanationKo": "무료 견본으로 행인이 들어와 상품을 맛보도록 유도했다."
+        }
       }
     ],
     "source": {
@@ -44941,7 +46421,17 @@
         "synonyms": [
           "opt",
           "select"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Each participant must ____ one of the three sessions, which are all offered at the same time.",
+          "correctAnswer": "choose",
+          "distractors": [
+            "cancel",
+            "abolish",
+            "prohibit"
+          ],
+          "explanationKo": "같은 시간에 열리는 세 세션 중 하나를 골라야 한다."
+        }
       }
     ],
     "source": {
@@ -44959,7 +46449,17 @@
         "korean": "계산되다",
         "synonyms": [
           "be calculated at"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Divided equally among eight diners, the charges should ____ twenty dollars per person.",
+          "correctAnswer": "work out at",
+          "distractors": [
+            "rise above",
+            "fall below",
+            "exclude"
+          ],
+          "explanationKo": "8명이 똑같이 나누면 1인당 20달러로 계산된다."
+        }
       }
     ],
     "source": {
@@ -44980,7 +46480,17 @@
           "join",
           "sign up",
           "recruit"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The organizers plan to ____ more volunteers by asking residents to join the cleanup effort.",
+          "correctAnswer": "enlist",
+          "distractors": [
+            "dismiss",
+            "release",
+            "discharge"
+          ],
+          "explanationKo": "주민에게 정화 활동에 참여해 달라고 요청해 자원봉사자를 모집한다."
+        }
       }
     ],
     "source": {
@@ -45002,7 +46512,17 @@
           "lessen",
           "cut",
           "abate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Adding more insulation can ____ heat loss by keeping warm air inside the house.",
+          "correctAnswer": "diminish",
+          "distractors": [
+            "increase",
+            "intensify",
+            "magnify"
+          ],
+          "explanationKo": "따뜻한 공기가 집 안에 머물러 열 손실을 줄일 수 있다."
+        }
       }
     ],
     "source": {
@@ -45021,7 +46541,17 @@
         "synonyms": [
           "rule",
           "standard"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "In this community, sharing food at festivals is the social ____: almost everyone follows the practice.",
+          "correctAnswer": "norm",
+          "distractors": [
+            "exception",
+            "violation",
+            "departure"
+          ],
+          "explanationKo": "거의 모두가 축제 때 음식을 나누는 관습을 따른다."
+        }
       }
     ],
     "source": {
@@ -45039,7 +46569,17 @@
         "korean": "과시하는",
         "synonyms": [
           "showy"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "His ____ display of wealth included a gold-plated car intended to draw attention wherever he went.",
+          "correctAnswer": "ostentatious",
+          "distractors": [
+            "modest",
+            "understated",
+            "unassuming"
+          ],
+          "explanationKo": "사람들의 시선을 끌려고 금도금 차량으로 부를 과시했다."
+        }
       }
     ],
     "source": {
@@ -45059,7 +46599,17 @@
           "abandon",
           "forsake",
           "leave"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Once the wells dried up, residents began to ____ the town, leaving it empty for decades.",
+          "correctAnswer": "desert",
+          "distractors": [
+            "inhabit",
+            "occupy",
+            "settle"
+          ],
+          "explanationKo": "우물이 마르자 주민들이 마을을 떠나 수십 년간 비어 있었다."
+        }
       }
     ],
     "source": {
@@ -45080,7 +46630,17 @@
           "habitation",
           "residence",
           "home"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The clay house served as the family's ____ for three generations.",
+          "correctAnswer": "dwelling",
+          "distractors": [
+            "workshop",
+            "warehouse",
+            "granary"
+          ],
+          "explanationKo": "가족 세 세대가 흙집에서 살았다."
+        }
       }
     ],
     "source": {
@@ -45099,7 +46659,17 @@
         "synonyms": [
           "remove variation within",
           "make uniform"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The researchers stirred the mixture thoroughly to ____ it so that every portion had the same composition.",
+          "correctAnswer": "homogenize",
+          "distractors": [
+            "stratify",
+            "separate",
+            "differentiate"
+          ],
+          "explanationKo": "어느 부분이든 성분이 같도록 혼합물을 골고루 섞었다."
+        }
       }
     ],
     "source": {
@@ -45120,7 +46690,17 @@
           "raise",
           "augment",
           "multiply"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The operator decided to ____ the fee from ten dollars to fifteen after electricity costs rose.",
+          "correctAnswer": "up",
+          "distractors": [
+            "lower",
+            "reduce",
+            "cut"
+          ],
+          "explanationKo": "전기료가 오른 뒤 요금을 10달러에서 15달러로 인상했다."
+        }
       }
     ],
     "source": {
@@ -45139,7 +46719,17 @@
         "synonyms": [
           "supplant",
           "replace"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Electric buses began to ____ diesel models as the city gradually replaced its older fleet.",
+          "correctAnswer": "displace",
+          "distractors": [
+            "preserve",
+            "retain",
+            "restore"
+          ],
+          "explanationKo": "도시가 낡은 차량을 바꾸면서 전기 버스가 경유 모델을 대체했다."
+        }
       },
       {
         "senseId": "advance-1523-s2",
@@ -45166,7 +46756,17 @@
           "very many",
           "countless",
           "innumerable"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The archive documents ____ shipwrecks, including more than three hundred in a single decade.",
+          "correctAnswer": "numerous",
+          "distractors": [
+            "few",
+            "scant",
+            "handfuls of"
+          ],
+          "explanationKo": "10년 동안 300건이 넘을 만큼 난파 기록이 많다."
+        }
       }
     ],
     "source": {
@@ -45186,7 +46786,17 @@
           "release",
           "emit",
           "excrete"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The valve will ____ steam into the air when pressure inside the chamber becomes too high.",
+          "correctAnswer": "discharge",
+          "distractors": [
+            "trap",
+            "retain",
+            "contain"
+          ],
+          "explanationKo": "챔버 압력이 너무 높아지면 수증기를 공기 중으로 내보낸다."
+        }
       }
     ],
     "source": {
@@ -45204,7 +46814,17 @@
         "korean": "방어하다, 지키다",
         "synonyms": [
           "guard"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The town built a wall to ____ itself against raids by neighboring forces.",
+          "correctAnswer": "defend",
+          "distractors": [
+            "expose",
+            "endanger",
+            "weaken"
+          ],
+          "explanationKo": "이웃 군대의 습격으로부터 마을을 지키려고 성벽을 세웠다."
+        }
       }
     ],
     "source": {
@@ -45222,7 +46842,17 @@
         "korean": "구성하다",
         "synonyms": [
           "make up"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Three independent units ____ the system; there are no other parts.",
+          "correctAnswer": "compose",
+          "distractors": [
+            "disrupt",
+            "replace",
+            "observe"
+          ],
+          "explanationKo": "독립된 장치 세 개가 시스템 전체를 이룬다."
+        }
       }
     ],
     "source": {
@@ -45242,7 +46872,17 @@
           "plenty",
           "large number",
           "profusion"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Fresh water is available in ____ on the island, even during long dry periods.",
+          "correctAnswer": "abundance",
+          "distractors": [
+            "absence",
+            "insufficiency",
+            "inadequacy"
+          ],
+          "explanationKo": "장기간 비가 오지 않아도 필요량을 충족할 만큼 담수가 풍부하다."
+        }
       }
     ],
     "source": {
@@ -45262,7 +46902,17 @@
           "beginning",
           "start",
           "commencement"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "At the ____ of winter, the first snow signaled the beginning of several months of cold weather.",
+          "correctAnswer": "onset",
+          "distractors": [
+            "end",
+            "close",
+            "conclusion"
+          ],
+          "explanationKo": "첫눈이 수개월간 이어질 추위의 시작을 알렸다."
+        }
       }
     ],
     "source": {
@@ -45282,7 +46932,17 @@
           "observe",
           "see",
           "look on"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Visitors may ____ the eruption from a safe distance, watching clouds of steam rise above the crater.",
+          "correctAnswer": "witness",
+          "distractors": [
+            "conceal",
+            "ignore",
+            "obscure"
+          ],
+          "explanationKo": "안전한 거리에서 분화구 위로 수증기가 솟는 모습을 볼 수 있다."
+        }
       }
     ],
     "source": {
@@ -45302,7 +46962,17 @@
           "grow",
           "increase",
           "multiply"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Pressure began to ____ as water continued entering the sealed tank.",
+          "correctAnswer": "mount",
+          "distractors": [
+            "fall",
+            "ease",
+            "subside"
+          ],
+          "explanationKo": "밀폐 탱크에 물이 계속 들어와 압력이 높아졌다."
+        }
       }
     ],
     "source": {
@@ -45323,7 +46993,17 @@
           "support",
           "consolidate",
           "fortify"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Builders added crossbars to ____ the frame and keep it from bending under heavy loads.",
+          "correctAnswer": "reinforce",
+          "distractors": [
+            "weaken",
+            "loosen",
+            "damage"
+          ],
+          "explanationKo": "무게를 받아도 휘지 않도록 가로대를 더해 틀을 강화했다."
+        }
       }
     ],
     "source": {
@@ -45344,7 +47024,17 @@
           "extreme",
           "fierce",
           "acute"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The oven produces ____ heat, reaching temperatures that can melt some metals.",
+          "correctAnswer": "intense",
+          "distractors": [
+            "mild",
+            "gentle",
+            "moderate"
+          ],
+          "explanationKo": "일부 금속을 녹일 만큼 강한 열을 낸다."
+        }
       }
     ],
     "source": {
@@ -45364,7 +47054,17 @@
           "complicated",
           "intricate",
           "tangled"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The repair was unusually ____, requiring dozens of interdependent steps and three different sets of tools.",
+          "correctAnswer": "involved",
+          "distractors": [
+            "simple",
+            "straightforward",
+            "elementary"
+          ],
+          "explanationKo": "서로 연결된 절차 수십 개와 도구 세 종류가 필요한 복잡한 수리였다."
+        }
       }
     ],
     "source": {
@@ -45385,7 +47085,17 @@
           "purely",
           "exclusively",
           "entirely"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The cabin is heated ____ by sunlight; it has no stove, heater, or other source of heat.",
+          "correctAnswer": "solely",
+          "distractors": [
+            "mainly",
+            "primarily",
+            "mostly"
+          ],
+          "explanationKo": "난로나 다른 열원이 없어 오직 햇빛으로만 난방한다."
+        }
       }
     ],
     "source": {
@@ -45405,7 +47115,17 @@
           "experience",
           "go through",
           "suffer"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The bridge will ____ extensive changes as engineers replace its deck and rebuild several supports.",
+          "correctAnswer": "undergo",
+          "distractors": [
+            "avoid",
+            "escape",
+            "prevent"
+          ],
+          "explanationKo": "바닥판과 지지대를 교체하며 교량이 큰 변화를 겪는다."
+        }
       }
     ],
     "source": {
@@ -45425,7 +47145,17 @@
           "instrument",
           "device",
           "apparatus"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "A spring-loaded ____ closes the door automatically by transferring motion through a set of gears.",
+          "correctAnswer": "mechanism",
+          "distractors": [
+            "hypothesis",
+            "manual",
+            "blueprint"
+          ],
+          "explanationKo": "스프링과 기어가 움직임을 전달해 문을 자동으로 닫는 장치다."
+        }
       },
       {
         "senseId": "advance-1537-s2",
@@ -45455,7 +47185,17 @@
           "suppose",
           "hypothesize",
           "assume"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Without records, historians can only ____ about why the settlement was abandoned.",
+          "correctAnswer": "speculate",
+          "distractors": [
+            "verify",
+            "prove",
+            "confirm"
+          ],
+          "explanationKo": "기록이 없어 정착지가 버려진 이유를 추측할 수밖에 없다."
+        }
       }
     ],
     "source": {
@@ -45474,7 +47214,17 @@
         "synonyms": [
           "decisively",
           "definitively"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The video evidence ____ settled the dispute: it showed the entire event from beginning to end.",
+          "correctAnswer": "conclusively",
+          "distractors": [
+            "tentatively",
+            "provisionally",
+            "inconclusively"
+          ],
+          "explanationKo": "영상이 사건 전체를 보여 논쟁에 확실히 종지부를 찍었다."
+        }
       }
     ],
     "source": {
@@ -45494,7 +47244,17 @@
           "considerably",
           "remarkably",
           "markedly"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The repair ____ improved efficiency, cutting energy use by more than a third.",
+          "correctAnswer": "significantly",
+          "distractors": [
+            "slightly",
+            "barely",
+            "marginally"
+          ],
+          "explanationKo": "에너지 사용이 3분의 1 넘게 줄어 효율이 크게 향상됐다."
+        }
       }
     ],
     "source": {
@@ -45514,7 +47274,17 @@
           "take up",
           "begin to use",
           "select"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The school decided to ____ the new policy and use it in every classroom starting Monday.",
+          "correctAnswer": "adopt",
+          "distractors": [
+            "reject",
+            "abandon",
+            "renounce"
+          ],
+          "explanationKo": "월요일부터 모든 교실에서 새 방침을 적용하기로 했다."
+        }
       }
     ],
     "source": {
@@ -45534,7 +47304,17 @@
           "basic item",
           "regular feature",
           "basic feature"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Rice is a ____ in the region: it is eaten daily and forms the basis of most meals.",
+          "correctAnswer": "staple",
+          "distractors": [
+            "luxury",
+            "rarity",
+            "novelty"
+          ],
+          "explanationKo": "쌀은 날마다 먹고 대부분의 식사에서 중심이 되는 주요 식품이다."
+        }
       },
       {
         "senseId": "advance-1542-s2",
@@ -45562,7 +47342,17 @@
           "release",
           "produce",
           "excrete"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The glands ____ oil onto the skin, releasing it through tiny openings.",
+          "correctAnswer": "secrete",
+          "distractors": [
+            "absorb",
+            "retain",
+            "reabsorb"
+          ],
+          "explanationKo": "분비샘이 작은 구멍을 통해 피부에 기름을 내보낸다."
+        }
       },
       {
         "senseId": "advance-1543-s2",
@@ -45591,7 +47381,17 @@
           "practice",
           "conduct",
           "perform"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The board decided to ____ the investigation until it had established exactly what happened.",
+          "correctAnswer": "pursue",
+          "distractors": [
+            "abandon",
+            "suspend",
+            "terminate"
+          ],
+          "explanationKo": "무슨 일이 있었는지 확인할 때까지 조사를 계속하기로 했다."
+        }
       }
     ],
     "source": {
@@ -45612,7 +47412,17 @@
           "protect",
           "save",
           "preserve"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The new irrigation system helps ____ water by reducing the amount lost through leaks.",
+          "correctAnswer": "conserve",
+          "distractors": [
+            "waste",
+            "squander",
+            "deplete"
+          ],
+          "explanationKo": "관개 중 새는 물을 줄여 물을 보존한다."
+        }
       }
     ],
     "source": {
@@ -45631,7 +47441,17 @@
         "synonyms": [
           "work hard",
           "labor"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Workers had to ____ for hours in the heat to clear the debris by hand.",
+          "correctAnswer": "toil",
+          "distractors": [
+            "rest",
+            "idle",
+            "lounge"
+          ],
+          "explanationKo": "더위 속에서 손으로 잔해를 치우느라 수시간 힘써 일했다."
+        }
       }
     ],
     "source": {
@@ -45651,7 +47471,17 @@
           "rough",
           "close",
           "near"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The estimate is only ____ because the survey team could not reach every part of the site.",
+          "correctAnswer": "approximate",
+          "distractors": [
+            "exact",
+            "precise",
+            "definitive"
+          ],
+          "explanationKo": "현장 전체에 가지 못해 추정치는 대략적이다."
+        }
       },
       {
         "senseId": "advance-1547-s2",
@@ -45678,7 +47508,17 @@
           "huge",
           "massive",
           "great and significant"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The dam was a ____ undertaking, requiring a decade of work and the labor of thousands.",
+          "correctAnswer": "monumental",
+          "distractors": [
+            "minor",
+            "trivial",
+            "modest"
+          ],
+          "explanationKo": "10년과 수천 명의 노동이 필요한 엄청난 사업이었다."
+        }
       }
     ],
     "source": {
@@ -45697,7 +47537,17 @@
         "synonyms": [
           "shorten",
           "constrict"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "As the metal cools, it will ____ and take up slightly less space.",
+          "correctAnswer": "contract",
+          "distractors": [
+            "expand",
+            "swell",
+            "enlarge"
+          ],
+          "explanationKo": "금속이 식으면 부피가 조금 줄어든다."
+        }
       }
     ],
     "source": {
@@ -45716,7 +47566,17 @@
         "synonyms": [
           "difficult to explain",
           "enigmatic"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The result was ____ because none of the accepted theories could explain it.",
+          "correctAnswer": "puzzling",
+          "distractors": [
+            "obvious",
+            "predictable",
+            "straightforward"
+          ],
+          "explanationKo": "어떤 정설도 결과를 설명하지 못해 이해하기 어려웠다."
+        }
       }
     ],
     "source": {
@@ -45736,7 +47596,17 @@
           "deprive",
           "strip",
           "despoil"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The court could ____ the trustee of his authority after finding that he had abused it.",
+          "correctAnswer": "divest",
+          "distractors": [
+            "reward",
+            "reassure",
+            "vindicate"
+          ],
+          "explanationKo": "권한을 남용한 수탁자의 권한을 법원이 박탈할 수 있다."
+        }
       }
     ],
     "source": {
@@ -45757,7 +47627,17 @@
           "arbitrator",
           "mediator",
           "intermediary"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "A respected elder acted as a ____ in the feud, calming both families and helping them reach a truce.",
+          "correctAnswer": "pacifier",
+          "distractors": [
+            "provocateur",
+            "instigator",
+            "agitator"
+          ],
+          "explanationKo": "장로가 두 가족을 진정시키고 휴전을 이끌었다."
+        }
       }
     ],
     "source": {
@@ -45778,7 +47658,17 @@
           "eternally",
           "perpetually",
           "everlastingly"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The data were ____ erased: no backup existed and nothing could be recovered.",
+          "correctAnswer": "permanently",
+          "distractors": [
+            "temporarily",
+            "reversibly",
+            "partially"
+          ],
+          "explanationKo": "사본이 없어 데이터를 되살릴 수 없도록 영구히 삭제됐다."
+        }
       }
     ],
     "source": {
@@ -45799,7 +47689,17 @@
           "evaluate",
           "judge",
           "calculate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Engineers need to ____ the cost before they have final quotes from all the suppliers.",
+          "correctAnswer": "estimate",
+          "distractors": [
+            "conceal",
+            "overlook",
+            "ignore"
+          ],
+          "explanationKo": "모든 업체의 최종 견적이 나오기 전에 비용을 추산해야 한다."
+        }
       }
     ],
     "source": {
@@ -45820,7 +47720,17 @@
           "barrier",
           "hindrance",
           "impediment"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The biggest ____ to the project is the lack of funding for the first round of tests.",
+          "correctAnswer": "hurdle",
+          "distractors": [
+            "advantage",
+            "benefit",
+            "incentive"
+          ],
+          "explanationKo": "첫 시험 자금이 없다는 점이 사업의 가장 큰 장애물이다."
+        }
       }
     ],
     "source": {
@@ -45841,7 +47751,17 @@
           "like",
           "delight in",
           "revel in"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "She began to ____ the challenge, enjoying the chance to solve a problem nobody else had tackled.",
+          "correctAnswer": "relish",
+          "distractors": [
+            "dread",
+            "resent",
+            "dislike"
+          ],
+          "explanationKo": "아무도 풀지 못한 문제를 해결해 볼 기회를 즐겼다."
+        }
       }
     ],
     "source": {
@@ -45861,7 +47781,17 @@
           "imitate",
           "pretend",
           "feign"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The software can ____ the movement of traffic so planners can test designs before building real roads.",
+          "correctAnswer": "simulate",
+          "distractors": [
+            "record",
+            "film",
+            "photograph"
+          ],
+          "explanationKo": "실제 도로를 만들기 전에 교통 흐름을 흉내 내 설계를 시험한다."
+        }
       }
     ],
     "source": {
@@ -45881,7 +47811,17 @@
           "drift",
           "float",
           "stay on the top"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "A rescue helicopter had to ____ above the boat, remaining in place while the crew lowered a rope.",
+          "correctAnswer": "hover",
+          "distractors": [
+            "land",
+            "depart",
+            "descend"
+          ],
+          "explanationKo": "승무원이 줄을 내리는 동안 헬기가 배 위에서 같은 자리에 떠 있었다."
+        }
       }
     ],
     "source": {
@@ -45901,7 +47841,17 @@
           "show",
           "exhibit",
           "present"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The monitor will ____ the results as a graph that everyone in the room can see.",
+          "correctAnswer": "display",
+          "distractors": [
+            "conceal",
+            "hide",
+            "obscure"
+          ],
+          "explanationKo": "모두가 볼 수 있도록 모니터에 결과 그래프를 표시한다."
+        }
       }
     ],
     "source": {
@@ -45921,7 +47871,17 @@
           "foreboding",
           "portentous",
           "threatening"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The sudden silence seemed ____ and made the crew fear that something had gone wrong.",
+          "correctAnswer": "ominous",
+          "distractors": [
+            "reassuring",
+            "auspicious",
+            "promising"
+          ],
+          "explanationKo": "갑자기 조용해져 무슨 문제가 생겼을까 봐 불안했다."
+        }
       }
     ],
     "source": {
@@ -45940,7 +47900,17 @@
         "synonyms": [
           "extend",
           "lengthen"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The fibers can ____ to twice their original length without breaking.",
+          "correctAnswer": "stretch",
+          "distractors": [
+            "shrink",
+            "contract",
+            "shorten"
+          ],
+          "explanationKo": "끊어지지 않고 원래 길이의 두 배까지 늘어난다."
+        }
       }
     ],
     "source": {
@@ -45960,7 +47930,17 @@
           "agree",
           "assent",
           "consent"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The reviewers ____ that more evidence is needed; both reached the same conclusion independently.",
+          "correctAnswer": "concur",
+          "distractors": [
+            "disagree",
+            "differ",
+            "dispute"
+          ],
+          "explanationKo": "두 검토자가 증거가 더 필요하다는 같은 결론에 독립적으로 도달했다."
+        }
       }
     ],
     "source": {
@@ -45979,7 +47959,17 @@
         "synonyms": [
           "critical situation",
           "emergency"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The country faced a water ____ when every major reservoir ran dry and emergency supplies began to run out.",
+          "correctAnswer": "crisis",
+          "distractors": [
+            "surplus",
+            "abundance",
+            "windfall"
+          ],
+          "explanationKo": "주요 저수지가 모두 마르고 비상 물량도 바닥나 물 위기에 직면했다."
+        }
       }
     ],
     "source": {
@@ -45999,7 +47989,17 @@
           "size",
           "extent",
           "magnitude"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The ____ of the wave doubled: its peaks rose twice as far above the resting level as before.",
+          "correctAnswer": "amplitude",
+          "distractors": [
+            "frequency",
+            "period",
+            "speed"
+          ],
+          "explanationKo": "기준선에서 파도 꼭대기까지의 높이인 진폭이 두 배가 됐다."
+        }
       }
     ],
     "source": {

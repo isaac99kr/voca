@@ -13,7 +13,17 @@
           "use",
           "make use of",
           "take advantage of"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Some factory owners tried to ____ workers by requiring unpaid overtime and threatening to fire anyone who complained.",
+          "correctAnswer": "exploit",
+          "distractors": [
+            "train",
+            "promote",
+            "consult"
+          ],
+          "explanationKo": "무급 초과근무를 강요했다는 내용이 노동자를 부당하게 이용했다는 단서다."
+        }
       }
     ],
     "source": {
@@ -33,7 +43,17 @@
           "explain",
           "justify",
           "give a reason for"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The readings differed even though both telescopes used identical lenses, so lens design alone could not ____ the discrepancy.",
+          "correctAnswer": "account for",
+          "distractors": [
+            "result from",
+            "coincide with",
+            "draw attention to"
+          ],
+          "explanationKo": "렌즈의 차이가 측정값 불일치의 이유가 될 수 없다는 문맥이다."
+        }
       },
       {
         "senseId": "advance-0002-s2",
@@ -68,7 +88,17 @@
         "synonyms": [
           "specific",
           "special"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Of the twelve soil samples, only one ____ sample contained traces of lead.",
+          "correctAnswer": "particular",
+          "distractors": [
+            "average",
+            "hypothetical",
+            "future"
+          ],
+          "explanationKo": "열두 개 중 납이 검출된 하나의 특정 표본을 가리킨다."
+        }
       }
     ],
     "source": {
@@ -89,7 +119,17 @@
           "conspicuous",
           "outstanding",
           "remarkable"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The dark lava formed a ____ stripe across the pale cliff that could be seen from several kilometers away.",
+          "correctAnswer": "prominent",
+          "distractors": [
+            "faint",
+            "concealed",
+            "microscopic"
+          ],
+          "explanationKo": "몇 킬로미터 밖에서도 보였다는 점이 줄무늬가 눈에 띄었다는 단서다."
+        }
       },
       {
         "senseId": "advance-0004-s2",
@@ -118,7 +158,17 @@
           "refill",
           "restore",
           "renew"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "After each drought, heavy spring rains ____ the aquifer by allowing water to seep back underground.",
+          "correctAnswer": "replenish",
+          "distractors": [
+            "drain",
+            "contaminate",
+            "expose"
+          ],
+          "explanationKo": "빗물이 지하로 다시 스며들어 대수층의 물을 보충한다."
+        }
       }
     ],
     "source": {
@@ -137,7 +187,17 @@
         "synonyms": [
           "native",
           "aboriginal"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Unlike the trees brought by settlers, these ____ species had grown on the island for thousands of years before humans arrived.",
+          "correctAnswer": "indigenous",
+          "distractors": [
+            "imported",
+            "invasive",
+            "cultivated"
+          ],
+          "explanationKo": "외부에서 들여온 나무와 달리 사람이 오기 전부터 섬에서 자란 토착종이다."
+        }
       }
     ],
     "source": {
@@ -157,7 +217,17 @@
           "locate",
           "exactly",
           "clearly identify"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "By comparing signals from three stations, researchers could ____ the earthquake's origin to within a few meters.",
+          "correctAnswer": "pinpoint",
+          "distractors": [
+            "conceal",
+            "misidentify",
+            "ignore"
+          ],
+          "explanationKo": "오차가 몇 미터에 불과하므로 진원의 위치를 정확히 찾아낸 것이다."
+        }
       },
       {
         "senseId": "advance-0007-s2",
@@ -186,7 +256,17 @@
           "destroy",
           "completely remove",
           "exterminate"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "An asteroid large enough to vaporize the entire colony could ____ every organism in it.",
+          "correctAnswer": "annihilate",
+          "distractors": [
+            "nourish",
+            "relocate",
+            "classify"
+          ],
+          "explanationKo": "군체 전체가 증발하면 그 안의 생물도 모두 전멸한다."
+        }
       }
     ],
     "source": {
@@ -205,7 +285,17 @@
         "synonyms": [
           "on the other hand",
           "contrarily"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Dark surfaces absorb much of the sunlight that strikes them. ____, light surfaces reflect most of it.",
+          "correctAnswer": "conversely",
+          "distractors": [
+            "Similarly",
+            "Consequently",
+            "Specifically"
+          ],
+          "explanationKo": "햇빛을 흡수하는 표면과 반사하는 표면을 대조한다."
+        }
       }
     ],
     "source": {
@@ -225,7 +315,17 @@
           "examine",
           "inquire into",
           "look into"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The committee will ____ the bridge failure by interviewing witnesses and examining the damaged steel.",
+          "correctAnswer": "investigate",
+          "distractors": [
+            "conceal",
+            "prevent",
+            "celebrate"
+          ],
+          "explanationKo": "목격자를 인터뷰하고 파손된 철골을 살피는 것은 사고 원인을 조사하는 과정이다."
+        }
       }
     ],
     "source": {
@@ -246,7 +346,17 @@
           "persuade",
           "satisfy",
           "guarantee"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Independent safety tests allowed engineers to ____ residents that the new dam could withstand a severe flood.",
+          "correctAnswer": "assure",
+          "distractors": [
+            "warn",
+            "remind",
+            "mislead"
+          ],
+          "explanationKo": "독립적인 안전 시험 결과를 근거로 주민에게 댐의 안전성을 확신시켰다."
+        }
       }
     ],
     "source": {
@@ -266,7 +376,17 @@
           "whole",
           "total",
           "complete"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Floodwater covered the ____ island from end to end, leaving no part above water.",
+          "correctAnswer": "entire",
+          "distractors": [
+            "central",
+            "wooded",
+            "western"
+          ],
+          "explanationKo": "한 부분도 수면 위로 남지 않았으므로 섬 전체가 잠겼다."
+        }
       }
     ],
     "source": {
@@ -286,7 +406,17 @@
           "make up for",
           "atone for",
           "make amends for"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "To ____ the heat lost through its thin walls, the building uses an additional heating system.",
+          "correctAnswer": "compensate for",
+          "distractors": [
+            "add to",
+            "benefit from",
+            "contribute to"
+          ],
+          "explanationKo": "추가 난방이 벽을 통해 빠져나간 열을 만회한다."
+        }
       },
       {
         "senseId": "advance-0013-s2",
@@ -315,7 +445,17 @@
           "suppose",
           "claim",
           "propose"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "To start the model, the researchers had to ____ that all particles were identical, an assumption they planned to test later.",
+          "correctAnswer": "postulate",
+          "distractors": [
+            "disprove",
+            "verify",
+            "forget"
+          ],
+          "explanationKo": "나중에 검증할 가정을 모형의 출발점으로 먼저 설정했다."
+        }
       }
     ],
     "source": {
@@ -336,7 +476,17 @@
           "increase",
           "amplify",
           "intensify"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The microscope can ____ the image of a cell fifty times without changing the specimen itself.",
+          "correctAnswer": "magnify",
+          "distractors": [
+            "shrink",
+            "erase",
+            "rotate"
+          ],
+          "explanationKo": "표본은 그대로지만 이미지 크기를 50배로 확대한다."
+        }
       }
     ],
     "source": {
@@ -357,7 +507,17 @@
           "offer",
           "provide",
           "grant"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The cliffs ____ nesting birds a safe place beyond the reach of land predators.",
+          "correctAnswer": "afford",
+          "distractors": [
+            "deny",
+            "cost",
+            "owe"
+          ],
+          "explanationKo": "절벽이 육상 포식자가 닿지 않는 안전한 둥지 자리를 제공한다."
+        }
       }
     ],
     "source": {
@@ -378,7 +538,17 @@
           "final",
           "enough to settle the issue",
           "clear"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Because the genetic match ruled out every other candidate, the result was ____ proof of the animal's identity.",
+          "correctAnswer": "conclusive",
+          "distractors": [
+            "tentative",
+            "inconclusive",
+            "ambiguous"
+          ],
+          "explanationKo": "다른 후보를 모두 배제했으므로 결과가 결정적인 증거였다."
+        }
       }
     ],
     "source": {
@@ -398,7 +568,17 @@
           "simple",
           "uncomplicated",
           "not complex"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The first device was ____, consisting of only a wooden frame and a single lever.",
+          "correctAnswer": "unsophisticated",
+          "distractors": [
+            "intricate",
+            "automated",
+            "miniature"
+          ],
+          "explanationKo": "나무 틀과 지렛대 하나뿐이라는 점이 구조가 단순했음을 보여 준다."
+        }
       }
     ],
     "source": {
@@ -419,7 +599,17 @@
           "legitimate",
           "just",
           "reasonable"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Given the two independent reports of structural damage, the decision to close the tunnel was fully ____.",
+          "correctAnswer": "justified",
+          "distractors": [
+            "arbitrary",
+            "secret",
+            "accidental"
+          ],
+          "explanationKo": "독립적인 피해 보고가 두 건 있었으므로 터널 폐쇄는 근거가 있는 결정이었다."
+        }
       }
     ],
     "source": {
@@ -439,7 +629,17 @@
           "intentional",
           "designed",
           "planned"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The second sample was omitted by a ____ decision documented before the study, as the researchers had planned.",
+          "correctAnswer": "deliberate",
+          "distractors": [
+            "spontaneous",
+            "accidental",
+            "random"
+          ],
+          "explanationKo": "연구 전에 문서화하고 계획해 둔 일이므로 의도적인 결정이다."
+        }
       },
       {
         "senseId": "advance-0020-s2",
@@ -467,7 +667,17 @@
         "synonyms": [
           "rely on",
           "count on"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "These seedlings ____ daily watering for survival during the dry season.",
+          "correctAnswer": "depend on",
+          "distractors": [
+            "interfere with",
+            "contribute to",
+            "substitute for"
+          ],
+          "explanationKo": "묘목이 건기에 살아남으려면 매일 물을 주어야 한다는 뜻이다."
+        }
       }
     ],
     "source": {
@@ -488,7 +698,17 @@
           "prove",
           "authenticate",
           "verify"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The scientists obtained independent measurements to ____ their claim that the glacier was retreating.",
+          "correctAnswer": "substantiate",
+          "distractors": [
+            "withdraw",
+            "disprove",
+            "conceal"
+          ],
+          "explanationKo": "독립적인 측정값을 확보해 빙하가 후퇴한다는 주장을 입증하려 했다."
+        }
       }
     ],
     "source": {
@@ -507,7 +727,17 @@
         "synonyms": [
           "one after another",
           "sequentially"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The three samples entered the chamber ____, one after another at ten-second intervals.",
+          "correctAnswer": "successively",
+          "distractors": [
+            "simultaneously",
+            "sporadically",
+            "prematurely"
+          ],
+          "explanationKo": "10초 간격으로 하나씩 들어갔으므로 잇따라 진행됐다."
+        }
       }
     ],
     "source": {
@@ -526,7 +756,17 @@
         "synonyms": [
           "widespread",
           "prevalent"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The chemical was so ____ that it was detected in the soil, water, and air at every site tested.",
+          "correctAnswer": "pervasive",
+          "distractors": [
+            "localized",
+            "rare",
+            "isolated"
+          ],
+          "explanationKo": "모든 조사 지점의 흙과 물과 공기에서 검출될 만큼 널리 퍼져 있었다."
+        }
       }
     ],
     "source": {
@@ -546,7 +786,17 @@
           "intense",
           "arduous",
           "laborious"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Climbing the final slope was so ____ that even trained hikers had to stop to catch their breath.",
+          "correctAnswer": "strenuous",
+          "distractors": [
+            "effortless",
+            "relaxing",
+            "leisurely"
+          ],
+          "explanationKo": "숙련된 등산객도 숨을 고르려고 멈췄으므로 오르기가 힘들었다."
+        }
       }
     ],
     "source": {
@@ -19796,7 +20046,17 @@
         "senseId": "advance-0953-s1",
         "korean": "1. 역동적인 2. 원동력, 힘",
         "synonyms": [],
-        "needsReview": true
+        "needsReview": true,
+        "fillBlank": {
+          "sentence": "The coastline is a ____ system: storms remove sand from one beach and deposit it on another, reshaping the shore each season.",
+          "correctAnswer": "dynamic",
+          "distractors": [
+            "static",
+            "rigid",
+            "unchanging"
+          ],
+          "explanationKo": "폭풍이 모래를 옮겨 해안의 모양이 계절마다 달라지므로 역동적인 체계라는 뜻이다."
+        }
       }
     ],
     "source": {
@@ -29451,7 +29711,17 @@
         "senseId": "advance-1418-s1",
         "korean": "1. 정기적으로 2 간헐적으로, 때때로",
         "synonyms": [],
-        "needsReview": true
+        "needsReview": true,
+        "fillBlank": {
+          "sentence": "The station recalibrates its instruments ____: technicians perform the same checks on the first day of every month.",
+          "correctAnswer": "periodically",
+          "distractors": [
+            "continuously",
+            "randomly",
+            "annually"
+          ],
+          "explanationKo": "매달 첫날에 같은 검사를 반복한다는 점이 정기적인 점검임을 보여 준다."
+        }
       }
     ],
     "source": {

@@ -12,7 +12,17 @@
           "subside",
           "withdraw",
           "drop"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Once the cold front moved east, the winds began to ____, weakening from gale force to a light breeze.",
+          "correctAnswer": "abate",
+          "distractors": [
+            "intensify",
+            "persist",
+            "rebound"
+          ],
+          "explanationKo": "강풍이 산들바람으로 약해졌으므로 바람이 잦아들었다는 뜻이다."
+        }
       }
     ],
     "source": {
@@ -33,7 +43,17 @@
           "cut",
           "reduce",
           "condense"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "To fit the report into five pages, the editor chose to ____ it by removing repetition while preserving the main findings.",
+          "correctAnswer": "abridge",
+          "distractors": [
+            "expand",
+            "translate",
+            "circulate"
+          ],
+          "explanationKo": "핵심 결과를 살리고 반복 내용을 덜어 내어 보고서를 축약했다."
+        }
       }
     ],
     "source": {
@@ -51,7 +71,17 @@
         "korean": "절제하는, 금욕적인",
         "synonyms": [
           "sparing"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The historian describes the monks as ____ because they voluntarily limited their meals to small portions and avoided rich food.",
+          "correctAnswer": "abstemious",
+          "distractors": [
+            "gluttonous",
+            "indulgent",
+            "extravagant"
+          ],
+          "explanationKo": "스스로 식사량을 줄이고 기름진 음식을 피했다는 점이 절제하는 태도를 보여 준다."
+        }
       }
     ],
     "source": {
@@ -70,7 +100,17 @@
         "synonyms": [
           "generalized",
           "simplified"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Justice and fairness are ____ concepts: neither can be weighed or physically measured like a material object.",
+          "correctAnswer": "abstract",
+          "distractors": [
+            "concrete",
+            "tangible",
+            "visible"
+          ],
+          "explanationKo": "정의는 물질처럼 재거나 만질 수 없는 추상적 개념이다."
+        }
       }
     ],
     "source": {
@@ -89,7 +129,17 @@
         "synonyms": [
           "difficult",
           "hard"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The proof was so ____ that even specialists needed several hours to understand its argument.",
+          "correctAnswer": "abstruse",
+          "distractors": [
+            "elementary",
+            "straightforward",
+            "familiar"
+          ],
+          "explanationKo": "전문가도 이해하는 데 몇 시간이 걸렸으므로 증명이 난해했다."
+        }
       }
     ],
     "source": {
@@ -109,7 +159,17 @@
           "available",
           "reachable",
           "obtainable"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The archive became ____ to remote students when the university made its entire collection freely available online.",
+          "correctAnswer": "accessible",
+          "distractors": [
+            "inaccessible",
+            "restricted",
+            "concealed"
+          ],
+          "explanationKo": "자료를 온라인에서 무료로 공개해 멀리 있는 학생도 접근할 수 있게 됐다."
+        }
       }
     ],
     "source": {
@@ -129,7 +189,17 @@
         "synonyms": [
           "praise",
           "applause"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The discovery received widespread ____ from scientists, who publicly praised its originality and importance.",
+          "correctAnswer": "acclaim",
+          "distractors": [
+            "criticism",
+            "condemnation",
+            "skepticism"
+          ],
+          "explanationKo": "과학자들이 독창성과 중요성을 공개적으로 칭찬했으므로 호평을 받았다."
+        }
       }
     ],
     "source": {
@@ -150,7 +220,17 @@
           "hail",
           "praise",
           "applaud"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Several journals publicly ____ the team for its innovative method, calling the work a major achievement.",
+          "correctAnswer": "acclaim",
+          "distractors": [
+            "condemn",
+            "rebuke",
+            "censure"
+          ],
+          "explanationKo": "주요 성과라고 평가했으므로 연구팀을 공개적으로 칭찬하는 문맥이다."
+        }
       }
     ],
     "source": {
@@ -168,7 +248,17 @@
         "korean": "명예, 칭찬, 경의",
         "synonyms": [
           "praise"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The society presented its highest ____ to the biologist for a lifetime of research.",
+          "correctAnswer": "accolade",
+          "distractors": [
+            "reprimand",
+            "penalty",
+            "obligation"
+          ],
+          "explanationKo": "평생의 연구 업적을 기려 학회가 가장 높은 영예를 수여했다."
+        }
       }
     ],
     "source": {
@@ -187,7 +277,17 @@
         "synonyms": [
           "recognize",
           "admit"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "After presenting the corrected figures, the authors had to ____ that their original estimate was too high.",
+          "correctAnswer": "acknowledge",
+          "distractors": [
+            "deny",
+            "conceal",
+            "dispute"
+          ],
+          "explanationKo": "수정된 수치를 제시한 뒤 원래 추정치가 너무 높았음을 인정했다."
+        }
       }
     ],
     "source": {
@@ -208,7 +308,17 @@
           "approve",
           "go along with",
           "offer no resistance"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The council opposed the merger at first but eventually had to ____ when it became clear that it had no power to block it.",
+          "correctAnswer": "acquiesce",
+          "distractors": [
+            "protest",
+            "intervene",
+            "retaliate"
+          ],
+          "explanationKo": "합병에 반대했지만 막을 권한이 없어 마지못해 받아들였다."
+        }
       }
     ],
     "source": {
@@ -229,7 +339,17 @@
           "bitter",
           "harsh",
           "penetrating"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "Burning plastic released fumes with a distinctly ____ smell that stung the researchers' noses and throats.",
+          "correctAnswer": "acrid",
+          "distractors": [
+            "fragrant",
+            "sweet",
+            "odorless"
+          ],
+          "explanationKo": "코와 목을 자극하는 매캐한 냄새였다는 뜻이다."
+        }
       }
     ],
     "source": {
@@ -251,7 +371,17 @@
           "sharp",
           "nasty",
           "acid"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The negotiations became ____ as both sides traded bitter accusations and personal insults.",
+          "correctAnswer": "acrimonious",
+          "distractors": [
+            "cordial",
+            "amicable",
+            "dispassionate"
+          ],
+          "explanationKo": "양측이 신랄한 비난과 인신공격을 주고받았으므로 협상이 험악했다."
+        }
       }
     ],
     "source": {
@@ -273,7 +403,17 @@
           "keen",
           "profound",
           "pointed"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The shortage became ____ when the hospital had only one day's supply of clean water left.",
+          "correctAnswer": "acute",
+          "distractors": [
+            "mild",
+            "negligible",
+            "moderate"
+          ],
+          "explanationKo": "깨끗한 물이 하루치밖에 남지 않았으므로 부족이 심각해졌다."
+        }
       }
     ],
     "source": {
@@ -293,7 +433,17 @@
           "flattery",
           "praise",
           "applause"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The celebrity was surrounded by ____: supporters greeted even routine announcements with extravagant praise.",
+          "correctAnswer": "adulation",
+          "distractors": [
+            "ridicule",
+            "contempt",
+            "indifference"
+          ],
+          "explanationKo": "평범한 발표에도 과한 찬사를 보냈다는 점이 열광적인 추종을 보여 준다."
+        }
       }
     ],
     "source": {
@@ -313,7 +463,17 @@
           "enemy",
           "foe",
           "opposition"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "In the debate, each student had to answer objections raised by a skilled ____ defending the opposite position.",
+          "correctAnswer": "adversary",
+          "distractors": [
+            "ally",
+            "supporter",
+            "assistant"
+          ],
+          "explanationKo": "정반대 입장을 변호하며 반론을 제기하는 사람은 토론 상대다."
+        }
       }
     ],
     "source": {
@@ -333,7 +493,17 @@
           "difficulty",
           "opposition",
           "persecution"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The colony endured years of ____ as repeated crop failures and disease threatened its survival.",
+          "correctAnswer": "adversity",
+          "distractors": [
+            "prosperity",
+            "stability",
+            "abundance"
+          ],
+          "explanationKo": "흉작과 질병이 생존을 위협했다는 점이 오랜 역경을 보여 준다."
+        }
       }
     ],
     "source": {
@@ -352,7 +522,17 @@
         "korean": "미의, 미학의, 심미적인",
         "synonyms": [
           "beautiful"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The designers chose the curved roof for its ____ appeal, saying the shape made the building more beautiful.",
+          "correctAnswer": "aesthetic",
+          "distractors": [
+            "structural",
+            "financial",
+            "acoustic"
+          ],
+          "explanationKo": "건물을 더 아름답게 하려고 고른 형태이므로 미적인 매력을 뜻한다."
+        }
       }
     ],
     "source": {
@@ -372,7 +552,17 @@
         "synonyms": [
           "beauty",
           "taste"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The architect's spare ____ favored bare concrete, plain surfaces, and almost no ornament.",
+          "correctAnswer": "aesthetic",
+          "distractors": [
+            "budget",
+            "schedule",
+            "inventory"
+          ],
+          "explanationKo": "꾸밈없는 표면과 최소한의 장식에 대한 선호가 건축가의 미적 스타일을 보여 준다."
+        }
       }
     ],
     "source": {
@@ -392,7 +582,17 @@
           "friendly",
           "nice",
           "personable"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The otherwise shy students relaxed around the ____ guide, who greeted everyone warmly and was easy to talk to.",
+          "correctAnswer": "affable",
+          "distractors": [
+            "hostile",
+            "distant",
+            "abrasive"
+          ],
+          "explanationKo": "따뜻하게 맞이하고 말을 걸기 쉬웠으므로 붙임성 있는 안내자였다."
+        }
       }
     ],
     "source": {
@@ -413,7 +613,17 @@
           "act",
           "ruse",
           "masquerade"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "His sudden adoption of an aristocratic accent was merely a social ____ intended to impress the visiting donors.",
+          "correctAnswer": "affectation",
+          "distractors": [
+            "reflex",
+            "custom",
+            "habit"
+          ],
+          "explanationKo": "후원자에게 인상을 주려고 일부러 상류층 억양을 흉내 냈으므로 꾸민 행동이다."
+        }
       }
     ],
     "source": {
@@ -432,7 +642,17 @@
         "synonyms": [
           "assertion",
           "statement"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The committee issued a public ____ of its support, stating unequivocally that it would stand behind the research team.",
+          "correctAnswer": "affirmation",
+          "distractors": [
+            "denial",
+            "retraction",
+            "refusal"
+          ],
+          "explanationKo": "연구팀을 지지한다고 명백히 밝혔으므로 지지 의사를 확언한 것이다."
+        }
       }
     ],
     "source": {
@@ -451,7 +671,17 @@
         "synonyms": [
           "assemblage",
           "composite"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The report listed the ____ of the regional budgets, a single total obtained by adding all the districts' figures.",
+          "correctAnswer": "aggregate",
+          "distractors": [
+            "median",
+            "minimum",
+            "range"
+          ],
+          "explanationKo": "모든 지역의 수치를 더해 얻은 값이므로 총액이다."
+        }
       }
     ],
     "source": {
@@ -472,7 +702,17 @@
           "lessen",
           "reduce",
           "assuage"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "The shelter was opened to ____ the suffering of families who had lost their homes in the flood.",
+          "correctAnswer": "alleviate",
+          "distractors": [
+            "exacerbate",
+            "prolong",
+            "ignore"
+          ],
+          "explanationKo": "집을 잃은 가족의 고통을 덜기 위해 대피소를 열었다."
+        }
       }
     ],
     "source": {
@@ -491,7 +731,17 @@
         "synonyms": [
           "unconcerned",
           "indifferent"
-        ]
+        ],
+        "fillBlank": {
+          "sentence": "While her colleagues eagerly joined the discussion, the visiting scholar remained ____, sitting apart and showing little interest.",
+          "correctAnswer": "aloof",
+          "distractors": [
+            "engaged",
+            "enthusiastic",
+            "sociable"
+          ],
+          "explanationKo": "떨어져 앉아 토론에 관심을 보이지 않았다는 점이 무관심한 태도를 보여 준다."
+        }
       }
     ],
     "source": {

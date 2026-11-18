@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "courses": {
+    "advance": {
+      "file": "advance.json",
+      "words": 1701,
+      "senses": 1869
+    },
+    "super-advance": {
+      "file": "super-advance.json",
+      "words": 900,
+      "senses": 900
+    }
+  }
+}

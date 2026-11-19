@@ -1,0 +1,14 @@
+Korean glosses for TOEFL Voca Master cloze distractors
+
+The cloze glossary includes selected and adapted Korean glosses from LexiSnap's
+Open English-Korean Dict (revision 92cbfe63deee1ccead2c42677027d8b4a305b2c7),
+with additional translations and edits for TOEFL Voca Master. The glossary
+data is licensed under Creative Commons Attribution-ShareAlike 4.0.
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Dictionary and upstream credits:
+https://github.com/jhseo1211/open-english-korean-dict/tree/92cbfe63deee1ccead2c42677027d8b4a305b2c7
+https://github.com/jhseo1211/open-english-korean-dict/blob/92cbfe63deee1ccead2c42677027d8b4a305b2c7/CREDITS.md
+
+Glossary source:
+https://github.com/isaac99kr/vo/blob/main/src/challenge/clozeOptionMeanings.json
